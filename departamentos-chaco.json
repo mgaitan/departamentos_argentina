@@ -3,8 +3,13 @@
  "features": [
   {
    "type": "Feature",
+   "properties": {
+    "id": 309,
+    "departamento": "QUITILIPI",
+    "cabecera": "QUITILIPI",
+    "provincia": "CHACO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -324,29 +329,19 @@
        -26.30474164200001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "QUITILIPI",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 309,
-    "st_area_sh": "1.41503737261e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "QUITILIPI",
-    "last_edite": "",
-    "st_length_": "2.11014127057e+000",
-    "provincia": "CHACO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO CHACO",
-    "created_da": "",
-    "cod_depto": "22133"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 310,
+    "departamento": "PRESIDENCIA DE LA PLAZA",
+    "cabecera": "PRESIDENCIA DE LA PLAZA",
+    "provincia": "CHACO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -526,29 +521,19 @@
        -27.01465433599998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "PRESIDENCIA DE LA PLAZA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 310,
-    "st_area_sh": "2.04097076902e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "PRESIDENCIA DE LA PLAZA",
-    "last_edite": "",
-    "st_length_": "1.99103864441e+000",
-    "provincia": "CHACO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO CHACO",
-    "created_da": "",
-    "cod_depto": "22119"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 311,
+    "departamento": "SAN LORENZO",
+    "cabecera": "VILLA BERTHET",
+    "provincia": "CHACO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -724,29 +709,19 @@
        -27.047077150999996
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN LORENZO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 311,
-    "st_area_sh": "1.95593255180e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA BERTHET",
-    "last_edite": "",
-    "st_length_": "2.08144567513e+000",
-    "provincia": "CHACO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO CHACO",
-    "created_da": "",
-    "cod_depto": "22147"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 312,
+    "departamento": "O'HIGGINS",
+    "cabecera": "SAN BERNARDO",
+    "provincia": "CHACO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -930,29 +905,19 @@
        -27.012021479999987
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "O'HIGGINS",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 312,
-    "st_area_sh": "1.42936606427e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN BERNARDO",
-    "last_edite": "",
-    "st_length_": "1.82578720400e+000",
-    "provincia": "CHACO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO CHACO",
-    "created_da": "",
-    "cod_depto": "22112"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 313,
+    "departamento": "9 DE JULIO",
+    "cabecera": "LAS BRENAS",
+    "provincia": "CHACO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -1196,29 +1161,19 @@
        -26.66027916500002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "9 DE JULIO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 313,
-    "st_area_sh": "1.97004056089e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LAS BRENAS",
-    "last_edite": "",
-    "st_length_": "2.75018961939e+000",
-    "provincia": "CHACO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO CHACO",
-    "created_da": "",
-    "cod_depto": "22105"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 314,
+    "departamento": "2 DE ABRIL",
+    "cabecera": "HERMOSO CAMPO",
+    "provincia": "CHACO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -1374,29 +1329,19 @@
        -27.480525629
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "2 DE ABRIL",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 314,
-    "st_area_sh": "1.45664658772e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "HERMOSO CAMPO",
-    "last_edite": "",
-    "st_length_": "1.72981011976e+000",
-    "provincia": "CHACO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO CHACO",
-    "created_da": "",
-    "cod_depto": "22039"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 315,
+    "departamento": "TAPENAGA",
+    "cabecera": "CHARADAI",
+    "provincia": "CHACO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -1544,29 +1489,19 @@
        -27.300469451000026
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "TAPENAGA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 315,
-    "st_area_sh": "5.45029475779e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CHARADAI",
-    "last_edite": "",
-    "st_length_": "3.04519937306e+000",
-    "provincia": "CHACO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO CHACO",
-    "created_da": "",
-    "cod_depto": "22161"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 316,
+    "departamento": "LIBERTAD",
+    "cabecera": "PUERTO TIROL",
+    "provincia": "CHACO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -2578,29 +2513,19 @@
        -27.33644694100002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LIBERTAD",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 316,
-    "st_area_sh": "9.49939745855e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "PUERTO TIROL",
-    "last_edite": "",
-    "st_length_": "1.86167232299e+000",
-    "provincia": "CHACO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO CHACO",
-    "created_da": "",
-    "cod_depto": "22077"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 317,
+    "departamento": "MAYOR LUIS J. FONTANA",
+    "cabecera": "VILLA ANGELA",
+    "provincia": "CHACO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -2820,29 +2745,19 @@
        -27.46217611999998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "MAYOR LUIS J. FONTANA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 317,
-    "st_area_sh": "3.37350944775e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA ANGELA",
-    "last_edite": "",
-    "st_length_": "2.90948758059e+000",
-    "provincia": "CHACO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO CHACO",
-    "created_da": "",
-    "cod_depto": "22098"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 318,
+    "departamento": "FRAY JUSTO SANTA MARIA DE ORO",
+    "cabecera": "SANTA SYLVINA",
+    "provincia": "CHACO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -2978,29 +2893,19 @@
        -27.92070910299998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "FRAY JUSTO SANTA MARIA DE ORO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 318,
-    "st_area_sh": "2.02458734332e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SANTA SYLVINA",
-    "last_edite": "",
-    "st_length_": "2.48596730517e+000",
-    "provincia": "CHACO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO CHACO",
-    "created_da": "",
-    "cod_depto": "22043"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 320,
+    "departamento": "12 DE OCTUBRE",
+    "cabecera": "GENERAL PINEDO",
+    "provincia": "CHACO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -3204,29 +3109,19 @@
        -27.074049117000015
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "12 DE OCTUBRE",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 320,
-    "st_area_sh": "2.50840978769e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "GENERAL PINEDO",
-    "last_edite": "",
-    "st_length_": "2.66177718851e+000",
-    "provincia": "CHACO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO CHACO",
-    "created_da": "",
-    "cod_depto": "22036"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 321,
+    "departamento": "CHACABUCO",
+    "cabecera": "CHARATA",
+    "provincia": "CHACO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -3474,29 +3369,19 @@
        -27.07578291599998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CHACABUCO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 321,
-    "st_area_sh": "1.37727873406e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CHARATA",
-    "last_edite": "",
-    "st_length_": "2.32020839076e+000",
-    "provincia": "CHACO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO CHACO",
-    "created_da": "",
-    "cod_depto": "22028"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 303,
+    "departamento": "SARGENTO CABRAL",
+    "cabecera": "COLONIA ELISA",
+    "provincia": "CHACO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -3748,29 +3633,19 @@
        -26.532914022
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SARGENTO CABRAL",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 303,
-    "st_area_sh": "1.50017534760e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "COLONIA ELISA",
-    "last_edite": "",
-    "st_length_": "2.38848872915e+000",
-    "provincia": "CHACO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO CHACO",
-    "created_da": "",
-    "cod_depto": "22154"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 304,
+    "departamento": "COMANDANTE FERNANDEZ",
+    "cabecera": "PRESIDENCIA ROQUE SAENZ PE\u00d1A",
+    "provincia": "CHACO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -3970,29 +3845,19 @@
        -26.62644505999998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "COMANDANTE FERNANDEZ",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 304,
-    "st_area_sh": "1.36455900614e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "PRESIDENCIA ROQUE SAENZ PE\u00d1A",
-    "last_edite": "",
-    "st_length_": "1.51625637831e+000",
-    "provincia": "CHACO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO CHACO",
-    "created_da": "",
-    "cod_depto": "22021"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 305,
+    "departamento": "INDEPENDENCIA",
+    "cabecera": "CAMPO LARGO",
+    "provincia": "CHACO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -4160,29 +4025,19 @@
        -26.52714421899998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "INDEPENDENCIA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 305,
-    "st_area_sh": "1.74624348311e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CAMPO LARGO",
-    "last_edite": "",
-    "st_length_": "2.08330162794e+000",
-    "provincia": "CHACO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO CHACO",
-    "created_da": "",
-    "cod_depto": "22070"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 306,
+    "departamento": "GENERAL BELGRANO",
+    "cabecera": "CORZUELA",
+    "provincia": "CHACO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -4342,29 +4197,19 @@
        -26.663070214000015
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GENERAL BELGRANO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 306,
-    "st_area_sh": "1.18258681873e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CORZUELA",
-    "last_edite": "",
-    "st_length_": "1.86249438921e+000",
-    "provincia": "CHACO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO CHACO",
-    "created_da": "",
-    "cod_depto": "22049"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 307,
+    "departamento": "GENERAL DONOVAN",
+    "cabecera": "MAKALLE",
+    "provincia": "CHACO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -4592,29 +4437,19 @@
        -26.902398119999987
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GENERAL DONOVAN",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 307,
-    "st_area_sh": "1.38393701615e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "MAKALLE",
-    "last_edite": "",
-    "st_length_": "1.81321611343e+000",
-    "provincia": "CHACO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO CHACO",
-    "created_da": "",
-    "cod_depto": "22056"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 308,
+    "departamento": "25 DE MAYO",
+    "cabecera": "MACHAGAI",
+    "provincia": "CHACO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -4878,29 +4713,19 @@
        -26.305639125000027
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "25 DE MAYO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 308,
-    "st_area_sh": "2.15774509512e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "MACHAGAI",
-    "last_edite": "",
-    "st_length_": "2.71970698657e+000",
-    "provincia": "CHACO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO CHACO",
-    "created_da": "",
-    "cod_depto": "22168"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 302,
+    "departamento": "MAIPU",
+    "cabecera": "TRES ISLETAS",
+    "provincia": "CHACO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -5128,29 +4953,19 @@
        -26.124249976999977
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "MAIPU",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 302,
-    "st_area_sh": "2.63634611440e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "TRES ISLETAS",
-    "last_edite": "",
-    "st_length_": "2.25351779315e+000",
-    "provincia": "CHACO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO CHACO",
-    "created_da": "",
-    "cod_depto": "22091"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 319,
+    "departamento": "1\u00b0 DE MAYO",
+    "cabecera": "MARGARITA BELEN",
+    "provincia": "CHACO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -10062,29 +9877,19 @@
        -26.87059472200002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "1\u00b0 DE MAYO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 319,
-    "st_area_sh": "1.16824411788e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "MARGARITA BELEN",
-    "last_edite": "",
-    "st_length_": "2.30756722650e+000",
-    "provincia": "CHACO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO CHACO",
-    "created_da": "",
-    "cod_depto": "22126"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 365,
+    "departamento": "BERMEJO",
+    "cabecera": "LA LEONESA",
+    "provincia": "CHACO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -15852,29 +15657,19 @@
        -26.642493821000016
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "BERMEJO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 365,
-    "st_area_sh": "2.32285273285e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LA LEONESA",
-    "last_edite": "",
-    "st_length_": "3.06532124849e+000",
-    "provincia": "CHACO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO CHACO",
-    "created_da": "",
-    "cod_depto": "22014"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 366,
+    "departamento": "LIBERTADOR GENERAL SAN MARTIN",
+    "cabecera": "GENERAL JOSE SAN MARTIN",
+    "provincia": "CHACO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -21510,29 +21305,19 @@
        -26.119929839999998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LIBERTADOR GENERAL SAN MARTIN",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 366,
-    "st_area_sh": "6.53848153786e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "GENERAL JOSE SAN MARTIN",
-    "last_edite": "",
-    "st_length_": "6.08554142492e+000",
-    "provincia": "CHACO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO CHACO",
-    "created_da": "",
-    "cod_depto": "22084"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 367,
+    "departamento": "GENERAL GUEMES",
+    "cabecera": "JUAN JOSE CASTELLI",
+    "provincia": "CHACO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -26872,29 +26657,19 @@
        -24.31936592599999
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GENERAL GUEMES",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 367,
-    "st_area_sh": "2.32127880362e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "JUAN JOSE CASTELLI",
-    "last_edite": "",
-    "st_length_": "9.82237364079e+000",
-    "provincia": "CHACO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO CHACO",
-    "created_da": "",
-    "cod_depto": "22063"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 447,
+    "departamento": "SAN FERNANDO",
+    "cabecera": "RESISTENCIA",
+    "provincia": "CHACO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -27810,29 +27585,19 @@
        -27.437727817999985
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN FERNANDO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 447,
-    "st_area_sh": "3.24401303126e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "RESISTENCIA",
-    "last_edite": "",
-    "st_length_": "2.54068659520e+000",
-    "provincia": "CHACO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO CHACO",
-    "created_da": "",
-    "cod_depto": "22140"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 428,
+    "departamento": "ALMIRANTE BROWN",
+    "cabecera": "PAMPA DEL INFIERNO",
+    "provincia": "CHACO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -28048,23 +27813,8 @@
        -24.832197989000008
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ALMIRANTE BROWN",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 428,
-    "st_area_sh": "1.58343989857e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "PAMPA DEL INFIERNO",
-    "last_edite": "",
-    "st_length_": "8.41905274895e+000",
-    "provincia": "CHACO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO CHACO",
-    "created_da": "",
-    "cod_depto": "22007"
+    ],
+    "type": "Polygon"
    }
   }
  ]

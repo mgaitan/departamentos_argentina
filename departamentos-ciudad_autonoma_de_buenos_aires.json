@@ -3,8 +3,13 @@
  "features": [
   {
    "type": "Feature",
+   "properties": {
+    "id": 502,
+    "departamento": "COMUNA 6",
+    "cabecera": "",
+    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -628,29 +633,19 @@
        -34.62701614000002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "COMUNA 6",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 502,
-    "st_area_sh": "6.73352351790e-004",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "",
-    "last_edite": "",
-    "st_length_": "1.09260676156e-001",
-    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES",
-    "fec_actual": "AGOSTO 2013",
-    "fuente": "USIG",
-    "created_da": "",
-    "cod_depto": "02006"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 497,
+    "departamento": "COMUNA 1",
+    "cabecera": "",
+    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -2530,29 +2525,19 @@
        -34.57873195600001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "COMUNA 1",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 497,
-    "st_area_sh": "1.73586073226e-003",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "",
-    "last_edite": "",
-    "st_length_": "2.80157983827e-001",
-    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES",
-    "fec_actual": "AGOSTO 2013",
-    "fuente": "USIG",
-    "created_da": "",
-    "cod_depto": "02001"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 498,
+    "departamento": "COMUNA 2",
+    "cabecera": "",
+    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -3884,29 +3869,19 @@
        -34.57873195600001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "COMUNA 2",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 498,
-    "st_area_sh": "6.18890987521e-004",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "",
-    "last_edite": "",
-    "st_length_": "1.93312098631e-001",
-    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES",
-    "fec_actual": "AGOSTO 2013",
-    "fuente": "USIG",
-    "created_da": "",
-    "cod_depto": "02002"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 499,
+    "departamento": "COMUNA 3",
+    "cabecera": "",
+    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -4590,29 +4565,19 @@
        -34.599655256999995
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "COMUNA 3",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 499,
-    "st_area_sh": "6.27623526996e-004",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "",
-    "last_edite": "",
-    "st_length_": "1.01656544872e-001",
-    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES",
-    "fec_actual": "AGOSTO 2013",
-    "fuente": "USIG",
-    "created_da": "",
-    "cod_depto": "02003"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 500,
+    "departamento": "COMUNA 4",
+    "cabecera": "",
+    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -6536,29 +6501,19 @@
        -34.61925216700001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "COMUNA 4",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 500,
-    "st_area_sh": "2.22377526090e-003",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "",
-    "last_edite": "",
-    "st_length_": "3.02278268787e-001",
-    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES",
-    "fec_actual": "AGOSTO 2013",
-    "fuente": "USIG",
-    "created_da": "",
-    "cod_depto": "02004"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 501,
+    "departamento": "COMUNA 5",
+    "cabecera": "",
+    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -7394,29 +7349,19 @@
        -34.597873042
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "COMUNA 5",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 501,
-    "st_area_sh": "6.54632731435e-004",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "",
-    "last_edite": "",
-    "st_length_": "1.17716902018e-001",
-    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES",
-    "fec_actual": "AGOSTO 2013",
-    "fuente": "USIG",
-    "created_da": "",
-    "cod_depto": "02005"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 503,
+    "departamento": "COMUNA 7",
+    "cabecera": "",
+    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -8740,29 +8685,19 @@
        -34.62701614000002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "COMUNA 7",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 503,
-    "st_area_sh": "1.22126782929e-003",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "",
-    "last_edite": "",
-    "st_length_": "1.79290373434e-001",
-    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES",
-    "fec_actual": "AGOSTO 2013",
-    "fuente": "USIG",
-    "created_da": "",
-    "cod_depto": "02007"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 504,
+    "departamento": "COMUNA 8",
+    "cabecera": "",
+    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -9750,29 +9685,19 @@
        -34.65313021200001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "COMUNA 8",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 504,
-    "st_area_sh": "2.20640562229e-003",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "",
-    "last_edite": "",
-    "st_length_": "2.09371847594e-001",
-    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES",
-    "fec_actual": "AGOSTO 2013",
-    "fuente": "USIG",
-    "created_da": "",
-    "cod_depto": "02008"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 505,
+    "departamento": "COMUNA 9",
+    "cabecera": "",
+    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -11156,29 +11081,19 @@
        -34.63302806899998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "COMUNA 9",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 505,
-    "st_area_sh": "1.63211633763e-003",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "",
-    "last_edite": "",
-    "st_length_": "2.15319991435e-001",
-    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES",
-    "fec_actual": "AGOSTO 2013",
-    "fuente": "USIG",
-    "created_da": "",
-    "cod_depto": "02009"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 506,
+    "departamento": "COMUNA 10",
+    "cabecera": "",
+    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -12486,29 +12401,19 @@
        -34.62240231800001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "COMUNA 10",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 506,
-    "st_area_sh": "1.24336375678e-003",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "",
-    "last_edite": "",
-    "st_length_": "1.83091724960e-001",
-    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES",
-    "fec_actual": "AGOSTO 2013",
-    "fuente": "USIG",
-    "created_da": "",
-    "cod_depto": "02010"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 507,
+    "departamento": "COMUNA 11",
+    "cabecera": "",
+    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -13816,29 +13721,19 @@
        -34.593972364000024
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "COMUNA 11",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 507,
-    "st_area_sh": "1.38259496925e-003",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "",
-    "last_edite": "",
-    "st_length_": "2.00463788089e-001",
-    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES",
-    "fec_actual": "AGOSTO 2013",
-    "fuente": "USIG",
-    "created_da": "",
-    "cod_depto": "02011"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 508,
+    "departamento": "COMUNA 12",
+    "cabecera": "",
+    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -14550,29 +14445,19 @@
        -34.572927935999985
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "COMUNA 12",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 508,
-    "st_area_sh": "1.53448953140e-003",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "",
-    "last_edite": "",
-    "st_length_": "1.70960855556e-001",
-    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES",
-    "fec_actual": "AGOSTO 2013",
-    "fuente": "USIG",
-    "created_da": "",
-    "cod_depto": "02012"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 509,
+    "departamento": "COMUNA 13",
+    "cabecera": "",
+    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -16504,29 +16389,19 @@
        -34.55218505900001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "COMUNA 13",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 509,
-    "st_area_sh": "1.45050065216e-003",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "",
-    "last_edite": "",
-    "st_length_": "2.52474751234e-001",
-    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES",
-    "fec_actual": "AGOSTO 2013",
-    "fuente": "USIG",
-    "created_da": "",
-    "cod_depto": "02013"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 510,
+    "departamento": "COMUNA 14",
+    "cabecera": "",
+    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -18174,29 +18049,19 @@
        -34.55218505900001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "COMUNA 14",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 510,
-    "st_area_sh": "1.56021114586e-003",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "",
-    "last_edite": "",
-    "st_length_": "2.01318870592e-001",
-    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES",
-    "fec_actual": "AGOSTO 2013",
-    "fuente": "USIG",
-    "created_da": "",
-    "cod_depto": "02014"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 511,
+    "departamento": "COMUNA 15",
+    "cabecera": "",
+    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -19500,23 +19365,8 @@
        -34.602691702000016
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "COMUNA 15",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 511,
-    "st_area_sh": "1.40730851636e-003",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "",
-    "last_edite": "",
-    "st_length_": "1.85740265272e-001",
-    "provincia": "CIUDAD AUTONOMA DE BUENOS AIRES",
-    "fec_actual": "AGOSTO 2013",
-    "fuente": "USIG",
-    "created_da": "",
-    "cod_depto": "02015"
+    ],
+    "type": "Polygon"
    }
   }
  ]

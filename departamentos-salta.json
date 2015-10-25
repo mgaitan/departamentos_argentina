@@ -3,8 +3,13 @@
  "features": [
   {
    "type": "Feature",
+   "properties": {
+    "id": 204,
+    "departamento": "CAPITAL",
+    "cabecera": "SALTA",
+    "provincia": "SALTA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -1676,29 +1681,19 @@
        -24.719671248999987
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CAPITAL",
-    "fuente1": "IGM",
-    "objectid": 204,
-    "st_area_sh": "1.39937329067e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SALTA",
-    "last_edite": "",
-    "st_length_": "2.40420790758e+000",
-    "provincia": "SALTA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "66028"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 205,
+    "departamento": "CACHI",
+    "cabecera": "CACHI",
+    "provincia": "SALTA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -3458,29 +3453,19 @@
        -24.759059906000005
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CACHI",
-    "fuente1": "IGM",
-    "objectid": 205,
-    "st_area_sh": "2.50551193796e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CACHI",
-    "last_edite": "",
-    "st_length_": "2.55174853563e+000",
-    "provincia": "SALTA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "66014"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 206,
+    "departamento": "CERRILLOS",
+    "cabecera": "CERRILLOS",
+    "provincia": "SALTA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -4256,29 +4241,19 @@
        -24.855247497999983
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CERRILLOS",
-    "fuente1": "IGM",
-    "objectid": 206,
-    "st_area_sh": "4.49299541705e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CERRILLOS",
-    "last_edite": "",
-    "st_length_": "1.07753279659e+000",
-    "provincia": "SALTA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "66035"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 207,
+    "departamento": "CHICOANA",
+    "cabecera": "CHICOANA",
+    "provincia": "SALTA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -5466,29 +5441,19 @@
        -25.0247612
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CHICOANA",
-    "fuente1": "IGM",
-    "objectid": 207,
-    "st_area_sh": "8.75805059189e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CHICOANA",
-    "last_edite": "",
-    "st_length_": "1.77922488700e+000",
-    "provincia": "SALTA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "66042"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 208,
+    "departamento": "LA VI\u00d1A",
+    "cabecera": "LA VI\u00d1A",
+    "provincia": "SALTA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -7452,29 +7417,19 @@
        -25.265432357999998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LA VI\u00d1A",
-    "fuente1": "IGM",
-    "objectid": 208,
-    "st_area_sh": "1.91880402628e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LA VI\u00d1A",
-    "last_edite": "",
-    "st_length_": "2.94066573180e+000",
-    "provincia": "SALTA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "66098"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 209,
+    "departamento": "SANTA VICTORIA",
+    "cabecera": "SANTA VICTORIA",
+    "provincia": "SALTA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -11606,29 +11561,19 @@
        -22.084984405
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SANTA VICTORIA",
-    "fuente1": "IGM",
-    "objectid": 209,
-    "st_area_sh": "3.29751789239e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SANTA VICTORIA",
-    "last_edite": "",
-    "st_length_": "3.03373442494e+000",
-    "provincia": "SALTA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "66161"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 210,
+    "departamento": "GENERAL JOSE DE SAN MARTIN",
+    "cabecera": "GENERAL JOSE DE SAN MARTIN",
+    "provincia": "SALTA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -14868,29 +14813,19 @@
        -21.999337476999983
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GENERAL JOSE DE SAN MARTIN",
-    "fuente1": "IGM",
-    "objectid": 210,
-    "st_area_sh": "1.40242913985e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "GENERAL JOSE DE SAN MARTIN",
-    "last_edite": "",
-    "st_length_": "5.68567072523e+000",
-    "provincia": "SALTA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "66056"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 211,
+    "departamento": "RIVADAVIA",
+    "cabecera": "RIVADAVIA",
+    "provincia": "SALTA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -16354,29 +16289,19 @@
        -23.495424048000018
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "RIVADAVIA",
-    "fuente1": "IGM",
-    "objectid": 211,
-    "st_area_sh": "2.33215210419e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "RIVADAVIA",
-    "last_edite": "",
-    "st_length_": "9.46290713369e+000",
-    "provincia": "SALTA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "66133"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 212,
+    "departamento": "METAN",
+    "cabecera": "METAN",
+    "provincia": "SALTA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -18848,29 +18773,19 @@
        -25.707208934999983
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "METAN",
-    "fuente1": "IGM",
-    "objectid": 212,
-    "st_area_sh": "4.85537828697e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "METAN",
-    "last_edite": "",
-    "st_length_": "4.18089453616e+000",
-    "provincia": "SALTA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "66112"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 213,
+    "departamento": "LA CANDELARIA",
+    "cabecera": "LA CANDELARIA",
+    "provincia": "SALTA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -22634,29 +22549,19 @@
        -25.934738159000005
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LA CANDELARIA",
-    "fuente1": "IGM",
-    "objectid": 213,
-    "st_area_sh": "1.08391530737e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LA CANDELARIA",
-    "last_edite": "",
-    "st_length_": "1.93706679269e+000",
-    "provincia": "SALTA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "66084"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 214,
+    "departamento": "GUACHIPAS",
+    "cabecera": "GUACHIPAS",
+    "provincia": "SALTA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -26532,29 +26437,19 @@
        -25.384687423999992
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GUACHIPAS",
-    "fuente1": "IGM",
-    "objectid": 214,
-    "st_area_sh": "2.60011725262e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "GUACHIPAS",
-    "last_edite": "",
-    "st_length_": "2.71360301096e+000",
-    "provincia": "SALTA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "66063"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 215,
+    "departamento": "CAFAYATE",
+    "cabecera": "CAFAYATE",
+    "provincia": "SALTA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -28594,29 +28489,19 @@
        -25.882999419999976
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CAFAYATE",
-    "fuente1": "IGM",
-    "objectid": 215,
-    "st_area_sh": "1.26553006424e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CAFAYATE",
-    "last_edite": "",
-    "st_length_": "1.83005754193e+000",
-    "provincia": "SALTA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "66021"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 216,
+    "departamento": "MOLINOS",
+    "cabecera": "MOLINOS",
+    "provincia": "SALTA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -31704,29 +31589,19 @@
        -25.312814713000023
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "MOLINOS",
-    "fuente1": "IGM",
-    "objectid": 216,
-    "st_area_sh": "2.89194030986e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "MOLINOS",
-    "last_edite": "",
-    "st_length_": "3.44848260781e+000",
-    "provincia": "SALTA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "66119"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 217,
+    "departamento": "GENERAL G\u00dcEMES",
+    "cabecera": "GENERAL MARTIN M. GUEMES",
+    "provincia": "SALTA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -34386,29 +34261,19 @@
        -24.60659790400001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GENERAL G\u00dcEMES",
-    "fuente1": "IGM",
-    "objectid": 217,
-    "st_area_sh": "2.09791246039e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "GENERAL MARTIN M. GUEMES",
-    "last_edite": "",
-    "st_length_": "2.82570025537e+000",
-    "provincia": "SALTA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "66049"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 218,
+    "departamento": "SAN CARLOS",
+    "cabecera": "SAN CARLOS",
+    "provincia": "SALTA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -38240,29 +38105,19 @@
        -25.300483703999987
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN CARLOS",
-    "fuente1": "IGM",
-    "objectid": 218,
-    "st_area_sh": "5.50264974400e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN CARLOS",
-    "last_edite": "",
-    "st_length_": "4.27585021760e+000",
-    "provincia": "SALTA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "66154"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 219,
+    "departamento": "ROSARIO DE LERMA",
+    "cabecera": "ROSARIO DE LEMA",
+    "provincia": "SALTA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -41534,29 +41389,19 @@
        -24.00767555499999
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ROSARIO DE LERMA",
-    "fuente1": "IGM",
-    "objectid": 219,
-    "st_area_sh": "4.68540073199e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "ROSARIO DE LEMA",
-    "last_edite": "",
-    "st_length_": "3.48483572399e+000",
-    "provincia": "SALTA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "66147"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 420,
+    "departamento": "LOS ANDES",
+    "cabecera": "LOS ANDES",
+    "provincia": "SALTA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -67852,29 +67697,19 @@
        -23.972400444000016
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LOS ANDES",
-    "fuente1": "IGM",
-    "objectid": 420,
-    "st_area_sh": "2.25006045308e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LOS ANDES",
-    "last_edite": "",
-    "st_length_": "8.61269741952e+000",
-    "provincia": "SALTA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "66105"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 422,
+    "departamento": "LA POMA",
+    "cabecera": "LA POMA",
+    "provincia": "SALTA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -71010,29 +70845,19 @@
        -23.416336643000022
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LA POMA",
-    "fuente1": "IGM",
-    "objectid": 422,
-    "st_area_sh": "3.45822376730e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LA POMA",
-    "last_edite": "",
-    "st_length_": "4.53868619540e+000",
-    "provincia": "SALTA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "66091"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 423,
+    "departamento": "LA CALDERA",
+    "cabecera": "LA CALDERA",
+    "provincia": "SALTA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -73024,29 +72849,19 @@
        -24.38261778399999
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LA CALDERA",
-    "fuente1": "IGM",
-    "objectid": 423,
-    "st_area_sh": "9.88268490001e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LA CALDERA",
-    "last_edite": "",
-    "st_length_": "1.79647939415e+000",
-    "provincia": "SALTA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "66077"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 424,
+    "departamento": "IRUYA",
+    "cabecera": "IRUYA",
+    "provincia": "SALTA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -75478,29 +75293,19 @@
        -22.65448760999999
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "IRUYA",
-    "fuente1": "IGM",
-    "objectid": 424,
-    "st_area_sh": "3.16980567560e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "IRUYA",
-    "last_edite": "",
-    "st_length_": "2.95425355870e+000",
-    "provincia": "SALTA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "66070"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 425,
+    "departamento": "ORAN",
+    "cabecera": "SAN RAMON DE LA NUEVA ORAN",
+    "provincia": "SALTA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -82364,29 +82169,19 @@
        -22.486383389000025
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ORAN",
-    "fuente1": "IGM",
-    "objectid": 425,
-    "st_area_sh": "1.05171244671e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN RAMON DE LA NUEVA ORAN",
-    "last_edite": "",
-    "st_length_": "7.70669412650e+000",
-    "provincia": "SALTA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "66126"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 427,
+    "departamento": "ANTA",
+    "cabecera": "JOAQUIN VICTOR GONZALEZ",
+    "provincia": "SALTA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -85582,29 +85377,19 @@
        -25.649034458000017
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ANTA",
-    "fuente1": "IGM",
-    "objectid": 427,
-    "st_area_sh": "1.97854426364e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "JOAQUIN VICTOR GONZALEZ",
-    "last_edite": "",
-    "st_length_": "7.66059370816e+000",
-    "provincia": "SALTA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "66007"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 431,
+    "departamento": "ROSARIO DE LA FRONTERA",
+    "cabecera": "ROSARIO DE LA FRONTERA",
+    "provincia": "SALTA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -95388,23 +95173,8 @@
        -26.21886894900001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ROSARIO DE LA FRONTERA",
-    "fuente1": "IGM",
-    "objectid": 431,
-    "st_area_sh": "4.96756673545e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "ROSARIO DE LA FRONTERA",
-    "last_edite": "",
-    "st_length_": "3.81857916932e+000",
-    "provincia": "SALTA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "66140"
+    ],
+    "type": "Polygon"
    }
   }
  ]

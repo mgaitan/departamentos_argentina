@@ -3,8 +3,13 @@
  "features": [
   {
    "type": "Feature",
+   "properties": {
+    "id": 221,
+    "departamento": "GUAYMALLEN",
+    "cabecera": "VILLA NUEVA",
+    "provincia": "MENDOZA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -336,29 +341,19 @@
        -32.82925796500001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GUAYMALLEN",
-    "fuente1": "IGM",
-    "objectid": 221,
-    "st_area_sh": "1.55999870252e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA NUEVA",
-    "last_edite": "",
-    "st_length_": "5.82442161740e-001",
-    "provincia": "MENDOZA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "50028"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 222,
+    "departamento": "SANTA ROSA",
+    "cabecera": "SANTA ROSA",
+    "provincia": "MENDOZA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -1154,29 +1149,19 @@
        -32.843185425
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SANTA ROSA",
-    "fuente1": "IGM",
-    "objectid": 222,
-    "st_area_sh": "8.56244275785e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SANTA ROSA",
-    "last_edite": "",
-    "st_length_": "4.70813724453e+000",
-    "provincia": "MENDOZA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "50112"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 223,
+    "departamento": "MAIPU",
+    "cabecera": "MAIPU",
+    "provincia": "MENDOZA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -1996,29 +1981,19 @@
        -32.86746597299998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "MAIPU",
-    "fuente1": "IGM",
-    "objectid": 223,
-    "st_area_sh": "5.90422471503e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "MAIPU",
-    "last_edite": "",
-    "st_length_": "1.24783422351e+000",
-    "provincia": "MENDOZA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "50070"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 224,
+    "departamento": "CAPITAL",
+    "cabecera": "MENDOZA",
+    "provincia": "MENDOZA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -2190,29 +2165,19 @@
        -32.872127533000025
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CAPITAL",
-    "fuente1": "IGM",
-    "objectid": 224,
-    "st_area_sh": "5.07747667546e-003",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "MENDOZA",
-    "last_edite": "",
-    "st_length_": "3.49628938590e-001",
-    "provincia": "MENDOZA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "50007"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 225,
+    "departamento": "GODOY CRUZ",
+    "cabecera": "GODOY CRUZ",
+    "provincia": "MENDOZA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -2436,29 +2401,19 @@
        -32.90263748199999
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GODOY CRUZ",
-    "fuente1": "IGM",
-    "objectid": 225,
-    "st_area_sh": "7.65179501060e-003",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "GODOY CRUZ",
-    "last_edite": "",
-    "st_length_": "4.14718279995e-001",
-    "provincia": "MENDOZA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "50021"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 226,
+    "departamento": "JUNIN",
+    "cabecera": "JUNIN",
+    "provincia": "MENDOZA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -3134,29 +3089,19 @@
        -33.186908722
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "JUNIN",
-    "fuente1": "IGM",
-    "objectid": 226,
-    "st_area_sh": "2.50319649610e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "JUNIN",
-    "last_edite": "",
-    "st_length_": "1.19609578407e+000",
-    "provincia": "MENDOZA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "50035"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 227,
+    "departamento": "RIVADAVIA",
+    "cabecera": "RIVADAVIA",
+    "provincia": "MENDOZA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -4092,29 +4037,19 @@
        -33.230609894
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "RIVADAVIA",
-    "fuente1": "IGM",
-    "objectid": 227,
-    "st_area_sh": "2.08586779419e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "RIVADAVIA",
-    "last_edite": "",
-    "st_length_": "2.23865868400e+000",
-    "provincia": "MENDOZA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "50084"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 228,
+    "departamento": "GENERAL ALVEAR",
+    "cabecera": "GENERAL ALVEAR",
+    "provincia": "MENDOZA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -11762,29 +11697,19 @@
        -34.49012756299999
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GENERAL ALVEAR",
-    "fuente1": "IGM",
-    "objectid": 228,
-    "st_area_sh": "1.45650543383e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "GENERAL ALVEAR",
-    "last_edite": "",
-    "st_length_": "5.74896929315e+000",
-    "provincia": "MENDOZA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "50014"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 220,
+    "departamento": "SAN MARTIN",
+    "cabecera": "SAN MARTIN",
+    "provincia": "MENDOZA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -12556,29 +12481,19 @@
        -32.843185425
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN MARTIN",
-    "fuente1": "IGM",
-    "objectid": 220,
-    "st_area_sh": "1.45830956960e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN MARTIN",
-    "last_edite": "",
-    "st_length_": "2.01247288906e+000",
-    "provincia": "MENDOZA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "50098"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 229,
+    "departamento": "LA PAZ",
+    "cabecera": "LA PAZ",
+    "provincia": "MENDOZA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -16706,29 +16621,19 @@
        -33.11987060199999
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LA PAZ",
-    "fuente1": "IGM",
-    "objectid": 229,
-    "st_area_sh": "7.16849224291e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LA PAZ",
-    "last_edite": "",
-    "st_length_": "4.60139213237e+000",
-    "provincia": "MENDOZA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "50042"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 230,
+    "departamento": "SAN RAFAEL",
+    "cabecera": "SAN RAFAEL",
+    "provincia": "MENDOZA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -29592,29 +29497,19 @@
        -34.250577857999986
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN RAFAEL",
-    "fuente1": "IGM",
-    "objectid": 230,
-    "st_area_sh": "3.09711674382e+000",
-    "last_edi_1": "20130919",
-    "created_us": "",
-    "cabecer": "SAN RAFAEL",
-    "last_edite": "sde@172.20.201.184.bdsig",
-    "st_length_": "1.19920501664e+001",
-    "provincia": "MENDOZA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "50105"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 346,
+    "departamento": "TUPUNGATO",
+    "cabecera": "TUPUNGATO",
+    "provincia": "MENDOZA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -31098,29 +30993,19 @@
        -33.019260406
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "TUPUNGATO",
-    "fuente1": "IGM",
-    "objectid": 346,
-    "st_area_sh": "2.40642004282e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "TUPUNGATO",
-    "last_edite": "",
-    "st_length_": "2.44567475006e+000",
-    "provincia": "MENDOZA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "50126"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 348,
+    "departamento": "TUNUYAN",
+    "cabecera": "TUNUYAN",
+    "provincia": "MENDOZA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -38260,29 +38145,19 @@
        -33.36622845199997
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "TUNUYAN",
-    "fuente1": "IGM",
-    "objectid": 348,
-    "st_area_sh": "3.25182659268e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "TUNUYAN",
-    "last_edite": "",
-    "st_length_": "2.58660605782e+000",
-    "provincia": "MENDOZA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "50119"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 349,
+    "departamento": "LUJAN DE CUYO",
+    "cabecera": "LUJAN DE CUYO",
+    "provincia": "MENDOZA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -47706,29 +47581,19 @@
        -32.620220184000004
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LUJAN DE CUYO",
-    "fuente1": "IGM",
-    "objectid": 349,
-    "st_area_sh": "4.69419132255e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LUJAN DE CUYO",
-    "last_edite": "",
-    "st_length_": "4.99455329789e+000",
-    "provincia": "MENDOZA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "50063"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 437,
+    "departamento": "LAS HERAS",
+    "cabecera": "LAS HERAS",
+    "provincia": "MENDOZA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -56348,29 +56213,19 @@
        -32.00283498499999
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LAS HERAS",
-    "fuente1": "IGM",
-    "objectid": 437,
-    "st_area_sh": "8.51830919522e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LAS HERAS",
-    "last_edite": "",
-    "st_length_": "5.79362980819e+000",
-    "provincia": "MENDOZA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "50049"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 438,
+    "departamento": "LAVALLE",
+    "cabecera": "VILLA TULUMAYA",
+    "provincia": "MENDOZA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -62366,29 +62221,19 @@
        -32.35882992400002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LAVALLE",
-    "fuente1": "IGM",
-    "objectid": 438,
-    "st_area_sh": "9.84238496639e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA TULUMAYA",
-    "last_edite": "",
-    "st_length_": "5.63025633270e+000",
-    "provincia": "MENDOZA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "50056"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 439,
+    "departamento": "MALARG\u00dcE",
+    "cabecera": "MALARG\u009aE",
+    "provincia": "MENDOZA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -91376,29 +91221,19 @@
        -34.68821716299999
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "MALARG\u00dcE",
-    "fuente1": "IGM",
-    "objectid": 439,
-    "st_area_sh": "4.06664990473e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "MALARG\u009aE",
-    "last_edite": "",
-    "st_length_": "1.04250942680e+001",
-    "provincia": "MENDOZA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "50077"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 347,
+    "departamento": "SAN CARLOS",
+    "cabecera": "VILLA SAN CARLOS",
+    "provincia": "MENDOZA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -101762,23 +101597,8 @@
        -33.461364746000015
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN CARLOS",
-    "fuente1": "IGM",
-    "objectid": 347,
-    "st_area_sh": "1.12590027980e+000",
-    "last_edi_1": "20130919",
-    "created_us": "",
-    "cabecer": "VILLA SAN CARLOS",
-    "last_edite": "sde@172.20.201.184.bdsig",
-    "st_length_": "5.98715576786e+000",
-    "provincia": "MENDOZA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "50091"
+    ],
+    "type": "Polygon"
    }
   }
  ]

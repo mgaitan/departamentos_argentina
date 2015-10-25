@@ -3,8 +3,13 @@
  "features": [
   {
    "type": "Feature",
+   "properties": {
+    "id": 393,
+    "departamento": "PRESIDENTE ROQUE SAENZ PE\u00d1A",
+    "cabecera": "LABOULAYE",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -268,29 +273,19 @@
        -33.89650809300002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "PRESIDENTE ROQUE SAENZ PE\u00d1A",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 393,
-    "st_area_sh": "7.99390633142e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LABOULAYE",
-    "last_edite": "",
-    "st_length_": "4.42535089368e+000",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14084"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 341,
+    "departamento": "TERCERO ARRIBA",
+    "cabecera": "OLIVA",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -906,29 +901,19 @@
        -32.00111280300001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "TERCERO ARRIBA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 341,
-    "st_area_sh": "4.91901220912e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "OLIVA",
-    "last_edite": "",
-    "st_length_": "4.82490451204e+000",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14161"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 342,
+    "departamento": "JUAREZ CELMAN",
+    "cabecera": "LA CARLOTA",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -1440,29 +1425,19 @@
        -32.83089075100003
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "JUAREZ CELMAN",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 342,
-    "st_area_sh": "7.53521801118e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LA CARLOTA",
-    "last_edite": "",
-    "st_length_": "4.85898556088e+000",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14056"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 322,
+    "departamento": "SOBREMONTE",
+    "cabecera": "SAN FRANCISCO DEL CHA\u00a5AR",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -1978,29 +1953,19 @@
        -29.655782821000003
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SOBREMONTE",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 322,
-    "st_area_sh": "2.95808197420e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN FRANCISCO DEL CHA\u00a5AR",
-    "last_edite": "",
-    "st_length_": "2.55798188818e+000",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14154"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 323,
+    "departamento": "TULUMBA",
+    "cabecera": "VILLA TULUMBA",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -4208,29 +4173,19 @@
        -30.088382034999995
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "TULUMBA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 323,
-    "st_area_sh": "9.14287752493e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA TULUMBA",
-    "last_edite": "",
-    "st_length_": "7.88719551326e+000",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14175"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 324,
+    "departamento": "ISCHILIN",
+    "cabecera": "DEAN FUNES",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -4798,29 +4753,19 @@
        -30.47013206700001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ISCHILIN",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 324,
-    "st_area_sh": "4.65464066107e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "DEAN FUNES",
-    "last_edite": "",
-    "st_length_": "3.33944216477e+000",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14049"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 325,
+    "departamento": "TOTORAL",
+    "cabecera": "VILLA DEL TOTORAL",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -6040,29 +5985,19 @@
        -30.53568284900001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "TOTORAL",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 325,
-    "st_area_sh": "2.77226258777e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA DEL TOTORAL",
-    "last_edite": "",
-    "st_length_": "3.21519128809e+000",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14168"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 326,
+    "departamento": "CRUZ DEL EJE",
+    "cabecera": "CRUZ DEL EJE",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -7082,29 +7017,19 @@
        -30.00956187600002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CRUZ DEL EJE",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 326,
-    "st_area_sh": "6.40824875162e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CRUZ DEL EJE",
-    "last_edite": "",
-    "st_length_": "4.46079555768e+000",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14028"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 327,
+    "departamento": "COLON",
+    "cabecera": "JESUS MARIA",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -7840,29 +7765,19 @@
        -31.032791456999973
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "COLON",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 327,
-    "st_area_sh": "2.18778582933e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "JESUS MARIA",
-    "last_edite": "",
-    "st_length_": "2.48121242044e+000",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14021"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 328,
+    "departamento": "PUNILLA",
+    "cabecera": "COSQUIN",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -8838,29 +8753,19 @@
        -31.386482193999996
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "PUNILLA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 328,
-    "st_area_sh": "2.49376745733e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "COSQUIN",
-    "last_edite": "",
-    "st_length_": "2.64434844432e+000",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14091"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 329,
+    "departamento": "CAPITAL",
+    "cabecera": "CORDOBA",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -8892,29 +8797,19 @@
        -31.435017630999994
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CAPITAL",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 329,
-    "st_area_sh": "5.44427466087e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CORDOBA",
-    "last_edite": "",
-    "st_length_": "9.36576074268e-001",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14014"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 339,
+    "departamento": "GENERAL SAN MARTIN",
+    "cabecera": "VILLA MARIA",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -9390,29 +9285,19 @@
        -32.00111280300001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GENERAL SAN MARTIN",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 339,
-    "st_area_sh": "4.84862314025e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA MARIA",
-    "last_edite": "",
-    "st_length_": "4.26720703108e+000",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14042"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 330,
+    "departamento": "SANTA MARIA",
+    "cabecera": "ALTA GRACIA",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -10992,29 +10877,19 @@
        -31.55874712000002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SANTA MARIA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 330,
-    "st_area_sh": "3.09371510334e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "ALTA GRACIA",
-    "last_edite": "",
-    "st_length_": "3.96133920192e+000",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14147"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 331,
+    "departamento": "MINAS",
+    "cabecera": "SAN CARLOS MINAS",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -11466,29 +11341,19 @@
        -31.246398435999993
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "MINAS",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 331,
-    "st_area_sh": "3.33952153489e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN CARLOS MINAS",
-    "last_edite": "",
-    "st_length_": "2.59760635423e+000",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14070"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 332,
+    "departamento": "POCHO",
+    "cabecera": "SALSACATE",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -11860,29 +11725,19 @@
        -31.38366348699998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "POCHO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 332,
-    "st_area_sh": "2.99077108694e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SALSACATE",
-    "last_edite": "",
-    "st_length_": "2.63832026978e+000",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14077"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 333,
+    "departamento": "SAN ALBERTO",
+    "cabecera": "VILLA CURA BROCHERO",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -12806,29 +12661,19 @@
        -31.898120421999977
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN ALBERTO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 333,
-    "st_area_sh": "3.17872817013e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA CURA BROCHERO",
-    "last_edite": "",
-    "st_length_": "3.03071418272e+000",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14126"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 334,
+    "departamento": "SAN JAVIER",
+    "cabecera": "VILLA DOLORES",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -16100,29 +15945,19 @@
        -31.87624392700002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN JAVIER",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 334,
-    "st_area_sh": "1.59304959839e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA DOLORES",
-    "last_edite": "",
-    "st_length_": "2.26119664124e+000",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14133"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 335,
+    "departamento": "RIO SEGUNDO",
+    "cabecera": "VILLA DEL ROSARIO",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -16826,29 +16661,19 @@
        -32.00111280300001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "RIO SEGUNDO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 335,
-    "st_area_sh": "4.75194046213e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA DEL ROSARIO",
-    "last_edite": "",
-    "st_length_": "4.09599260092e+000",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14119"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 336,
+    "departamento": "SAN JUSTO",
+    "cabecera": "SAN FRANCISCO",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -19236,29 +19061,19 @@
        -30.386110069999972
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN JUSTO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 336,
-    "st_area_sh": "1.51810649054e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN FRANCISCO",
-    "last_edite": "",
-    "st_length_": "6.69004719737e+000",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14140"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 337,
+    "departamento": "UNION",
+    "cabecera": "BEL VILLE",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -19818,29 +19633,19 @@
        -33.89650809300002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "UNION",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 337,
-    "st_area_sh": "1.02882494230e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "BEL VILLE",
-    "last_edite": "",
-    "st_length_": "6.15626411615e+000",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14182"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 340,
+    "departamento": "RIO PRIMERO",
+    "cabecera": "SANTA ROSA DE RIO PRIMERO",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -20728,29 +20533,19 @@
        -30.687226991999978
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "RIO PRIMERO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 340,
-    "st_area_sh": "6.50000304677e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SANTA ROSA DE RIO PRIMERO",
-    "last_edite": "",
-    "st_length_": "4.11882149045e+000",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14105"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 338,
+    "departamento": "MARCOS JUAREZ",
+    "cabecera": "MARCOS JUAREZ",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -25114,29 +24909,19 @@
        -33.910643284
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "MARCOS JUAREZ",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 338,
-    "st_area_sh": "9.03907022670e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "MARCOS JUAREZ",
-    "last_edite": "",
-    "st_length_": "5.55769361473e+000",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14063"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 343,
+    "departamento": "RIO CUARTO",
+    "cabecera": "RIO CUARTO",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -28012,29 +27797,19 @@
        -32.755518318999975
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "RIO CUARTO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 343,
-    "st_area_sh": "1.78441866608e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "RIO CUARTO",
-    "last_edite": "",
-    "st_length_": "6.55958203642e+000",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14098"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 397,
+    "departamento": "GENERAL ROCA",
+    "cabecera": "VILLA HUIDOBRO",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -28934,29 +28709,19 @@
        -34.24023228499999
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GENERAL ROCA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 397,
-    "st_area_sh": "1.25300233637e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA HUIDOBRO",
-    "last_edite": "",
-    "st_length_": "5.51157585920e+000",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14035"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 378,
+    "departamento": "CALAMUCHITA",
+    "cabecera": "SAN AGUSTIN",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -30836,29 +30601,19 @@
        -31.81258945000002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CALAMUCHITA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 378,
-    "st_area_sh": "4.49047283254e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN AGUSTIN",
-    "last_edite": "",
-    "st_length_": "3.14715520576e+000",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14007"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 433,
+    "departamento": "RIO SECO",
+    "cabecera": "VILLA DE MARIA",
+    "provincia": "CORDOBA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -34430,23 +34185,8 @@
        -29.655782821000003
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "RIO SECO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 433,
-    "st_area_sh": "6.22073441513e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA DE MARIA",
-    "last_edite": "",
-    "st_length_": "5.29498592031e+000",
-    "provincia": "CORDOBA",
-    "fec_actual": "AGO 2006",
-    "fuente": "CATASTRO CORDOBA",
-    "created_da": "",
-    "cod_depto": "14112"
+    ],
+    "type": "Polygon"
    }
   }
  ]

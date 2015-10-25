@@ -3,8 +3,13 @@
  "features": [
   {
    "type": "Feature",
+   "properties": {
+    "id": 273,
+    "departamento": "RAMON LISTA",
+    "cabecera": "GENERAL MOSCONI",
+    "provincia": "FORMOSA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -1908,29 +1913,19 @@
        -22.482019408999975
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "RAMON LISTA",
-    "fuente1": "IGM",
-    "objectid": 273,
-    "st_area_sh": "3.39568457901e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "GENERAL MOSCONI",
-    "last_edite": "",
-    "st_length_": "3.34371036310e+000",
-    "provincia": "FORMOSA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "34063"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 274,
+    "departamento": "PILCOMAYO",
+    "cabecera": "CLORINDA",
+    "provincia": "FORMOSA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -16282,29 +16277,19 @@
        -24.92852380300002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "PILCOMAYO",
-    "fuente1": "IGM",
-    "objectid": 274,
-    "st_area_sh": "4.79625996305e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CLORINDA",
-    "last_edite": "",
-    "st_length_": "4.60159208919e+000",
-    "provincia": "FORMOSA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "34049"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 275,
+    "departamento": "FORMOSA",
+    "cabecera": "FORMOSA",
+    "provincia": "FORMOSA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -17940,29 +17925,19 @@
        -25.57608985899998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "FORMOSA",
-    "fuente1": "IGM",
-    "objectid": 275,
-    "st_area_sh": "5.86081744643e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "FORMOSA",
-    "last_edite": "",
-    "st_length_": "3.84654896089e+000",
-    "provincia": "FORMOSA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "34014"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 362,
+    "departamento": "PIRANE",
+    "cabecera": "PIRANE",
+    "provincia": "FORMOSA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -20186,29 +20161,19 @@
        -25.470651626999995
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "PIRANE",
-    "fuente1": "IGM",
-    "objectid": 362,
-    "st_area_sh": "7.76526315643e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "PIRANE",
-    "last_edite": "",
-    "st_length_": "4.40625708619e+000",
-    "provincia": "FORMOSA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "34056"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 363,
+    "departamento": "PATI\u00d1O",
+    "cabecera": "COMANDANTE FONTANA",
+    "provincia": "FORMOSA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -30048,29 +30013,19 @@
        -24.007707606999986
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "PATI\u00d1O",
-    "fuente1": "IGM",
-    "objectid": 363,
-    "st_area_sh": "2.34737199228e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "COMANDANTE FONTANA",
-    "last_edite": "",
-    "st_length_": "8.46143353015e+000",
-    "provincia": "FORMOSA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "34035"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 364,
+    "departamento": "BERMEJO",
+    "cabecera": "LAGUNA YEMA",
+    "provincia": "FORMOSA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -37806,29 +37761,19 @@
        -23.129140526000015
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "BERMEJO",
-    "fuente1": "IGM",
-    "objectid": 364,
-    "st_area_sh": "1.23456209898e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LAGUNA YEMA",
-    "last_edite": "",
-    "st_length_": "6.31229889050e+000",
-    "provincia": "FORMOSA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "34007"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 360,
+    "departamento": "PILAGAS",
+    "cabecera": "EL ESPINILLO",
+    "provincia": "FORMOSA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -42496,29 +42441,19 @@
        -24.711772406000023
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "PILAGAS",
-    "fuente1": "IGM",
-    "objectid": 360,
-    "st_area_sh": "3.07979705211e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "EL ESPINILLO",
-    "last_edite": "",
-    "st_length_": "2.60683568340e+000",
-    "provincia": "FORMOSA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "34042"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 361,
+    "departamento": "LAISHI",
+    "cabecera": "SAN FRANCISCO DE LAISHI",
+    "provincia": "FORMOSA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -45542,29 +45477,19 @@
        -26.34394073499999
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LAISHI",
-    "fuente1": "IGM",
-    "objectid": 361,
-    "st_area_sh": "3.24981183215e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN FRANCISCO DE LAISHI",
-    "last_edite": "",
-    "st_length_": "3.20292729165e+000",
-    "provincia": "FORMOSA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "34021"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 426,
+    "departamento": "MATACOS",
+    "cabecera": "INGENIERO JUAREZ",
+    "provincia": "FORMOSA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -46404,23 +46329,8 @@
        -23.49292182900001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "MATACOS",
-    "fuente1": "IGM",
-    "objectid": 426,
-    "st_area_sh": "3.59701143170e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "INGENIERO JUAREZ",
-    "last_edite": "",
-    "st_length_": "2.84813897757e+000",
-    "provincia": "FORMOSA",
-    "fec_actual": "2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "34028"
+    ],
+    "type": "Polygon"
    }
   }
  ]

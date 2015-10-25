@@ -3,8 +3,13 @@
  "features": [
   {
    "type": "Feature",
+   "properties": {
+    "id": 18,
+    "departamento": "CAINGUAS",
+    "cabecera": "CAMPO GRANDE",
+    "provincia": "MISIONES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -996,29 +1001,19 @@
        -26.949249268000017
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CAINGUAS",
-    "fuente1": "IGM",
-    "objectid": 18,
-    "st_area_sh": "1.41320291297e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CAMPO GRANDE",
-    "last_edite": "",
-    "st_length_": "2.72437304392e+000",
-    "provincia": "MISIONES",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "54014"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 19,
+    "departamento": "LEANDRO N. ALEM",
+    "cabecera": "LEANDRO N. ALEM",
+    "provincia": "MISIONES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -1370,29 +1365,19 @@
        -27.614444733000028
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LEANDRO N. ALEM",
-    "fuente1": "IGM",
-    "objectid": 19,
-    "st_area_sh": "9.75799207045e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LEANDRO N. ALEM",
-    "last_edite": "",
-    "st_length_": "1.57259911883e+000",
-    "provincia": "MISIONES",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "54070"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 22,
+    "departamento": "MONTECARLO",
+    "cabecera": "MONTECARLO",
+    "provincia": "MISIONES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -2476,29 +2461,19 @@
        -26.444932584000014
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "MONTECARLO",
-    "fuente1": "IGM",
-    "objectid": 22,
-    "st_area_sh": "1.58190073713e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "MONTECARLO",
-    "last_edite": "",
-    "st_length_": "2.20687301267e+000",
-    "provincia": "MISIONES",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "54084"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 20,
+    "departamento": "APOSTOLES",
+    "cabecera": "APOSTOLES",
+    "provincia": "MISIONES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -5570,29 +5545,19 @@
        -27.703063965000013
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "APOSTOLES",
-    "fuente1": "IGM",
-    "objectid": 20,
-    "st_area_sh": "9.74935805208e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "APOSTOLES",
-    "last_edite": "",
-    "st_length_": "1.71754167054e+000",
-    "provincia": "MISIONES",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "54007"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 21,
+    "departamento": "CANDELARIA",
+    "cabecera": "SANTA ANA",
+    "provincia": "MISIONES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -6560,29 +6525,19 @@
        -27.291810989
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CANDELARIA",
-    "fuente1": "IGM",
-    "objectid": 21,
-    "st_area_sh": "8.30899541629e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SANTA ANA",
-    "last_edite": "",
-    "st_length_": "1.74546890496e+000",
-    "provincia": "MISIONES",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "54021"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 23,
+    "departamento": "LIBERTADOR GENERAL SAN MARTIN",
+    "cabecera": "PUERTO RICO",
+    "provincia": "MISIONES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -7858,29 +7813,19 @@
        -26.644281503000002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LIBERTADOR GENERAL SAN MARTIN",
-    "fuente1": "IGM",
-    "objectid": 23,
-    "st_area_sh": "1.31923622999e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "PUERTO RICO",
-    "last_edite": "",
-    "st_length_": "2.01832195988e+000",
-    "provincia": "MISIONES",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "54077"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 24,
+    "departamento": "CAPITAL",
+    "cabecera": "POSADAS",
+    "provincia": "MISIONES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -10012,29 +9957,19 @@
        -27.75690881700001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CAPITAL",
-    "fuente1": "IGM",
-    "objectid": 24,
-    "st_area_sh": "8.96385767041e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "POSADAS",
-    "last_edite": "",
-    "st_length_": "1.66964394556e+000",
-    "provincia": "MISIONES",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "54028"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 25,
+    "departamento": "ELDORADO",
+    "cabecera": "ELDORADO",
+    "provincia": "MISIONES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -11578,29 +11513,19 @@
        -26.119504929000016
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ELDORADO",
-    "fuente1": "IGM",
-    "objectid": 25,
-    "st_area_sh": "1.69884389489e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "ELDORADO",
-    "last_edite": "",
-    "st_length_": "2.46192322241e+000",
-    "provincia": "MISIONES",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "54042"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 26,
+    "departamento": "SAN PEDRO",
+    "cabecera": "SAN PEDRO",
+    "provincia": "MISIONES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -15808,29 +15733,19 @@
        -26.44137817500001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN PEDRO",
-    "fuente1": "IGM",
-    "objectid": 26,
-    "st_area_sh": "3.25738494266e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN PEDRO",
-    "last_edite": "",
-    "st_length_": "4.73632118650e+000",
-    "provincia": "MISIONES",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "54112"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 356,
+    "departamento": "SAN JAVIER",
+    "cabecera": "SAN JAVIER",
+    "provincia": "MISIONES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -17250,29 +17165,19 @@
        -27.620294570999988
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN JAVIER",
-    "fuente1": "IGM",
-    "objectid": 356,
-    "st_area_sh": "6.15763095033e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN JAVIER",
-    "last_edite": "",
-    "st_length_": "1.42130711944e+000",
-    "provincia": "MISIONES",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "54105"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 357,
+    "departamento": "CONCEPCION",
+    "cabecera": "CONCEPCION DE LA SIERRA",
+    "provincia": "MISIONES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -18120,29 +18025,19 @@
        -27.759887694999975
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CONCEPCION",
-    "fuente1": "IGM",
-    "objectid": 357,
-    "st_area_sh": "7.07175744227e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CONCEPCION DE LA SIERRA",
-    "last_edite": "",
-    "st_length_": "1.29893019118e+000",
-    "provincia": "MISIONES",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "54035"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 353,
+    "departamento": "GUARANI",
+    "cabecera": "EL SOBERBIO",
+    "provincia": "MISIONES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -20750,29 +20645,19 @@
        -26.71518516499998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GUARANI",
-    "fuente1": "IGM",
-    "objectid": 353,
-    "st_area_sh": "2.97979041263e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "EL SOBERBIO",
-    "last_edite": "",
-    "st_length_": "3.69865147570e+000",
-    "provincia": "MISIONES",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "54056"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 354,
+    "departamento": "25 DE MAYO",
+    "cabecera": "ALBA POSSE",
+    "provincia": "MISIONES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -23580,29 +23465,19 @@
        -27.253856659000007
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "25 DE MAYO",
-    "fuente1": "IGM",
-    "objectid": 354,
-    "st_area_sh": "1.51202316970e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "ALBA POSSE",
-    "last_edite": "",
-    "st_length_": "2.90658373900e+000",
-    "provincia": "MISIONES",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "54119"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 355,
+    "departamento": "OBERA",
+    "cabecera": "OBERA",
+    "provincia": "MISIONES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -25010,29 +24885,19 @@
        -27.280162811000025
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "OBERA",
-    "fuente1": "IGM",
-    "objectid": 355,
-    "st_area_sh": "1.44058528287e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "OBERA",
-    "last_edite": "",
-    "st_length_": "2.27298269972e+000",
-    "provincia": "MISIONES",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "54091"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 358,
+    "departamento": "GENERAL MANUEL BELGRANO",
+    "cabecera": "BERNARDO DE IRIGOYEN",
+    "provincia": "MISIONES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -29292,29 +29157,19 @@
        -25.541163186999995
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GENERAL MANUEL BELGRANO",
-    "fuente1": "IGM",
-    "objectid": 358,
-    "st_area_sh": "3.04504635352e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "BERNARDO DE IRIGOYEN",
-    "last_edite": "",
-    "st_length_": "3.89243018854e+000",
-    "provincia": "MISIONES",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "54049"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 359,
+    "departamento": "SAN IGNACIO",
+    "cabecera": "SAN IGNACIO",
+    "provincia": "MISIONES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -30910,29 +30765,19 @@
        -26.964183588000026
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN IGNACIO",
-    "fuente1": "IGM",
-    "objectid": 359,
-    "st_area_sh": "1.50708786780e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN IGNACIO",
-    "last_edite": "",
-    "st_length_": "2.18509620172e+000",
-    "provincia": "MISIONES",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "54098"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 401,
+    "departamento": "IGUAZU",
+    "cabecera": "PUERTO ESPERANZA",
+    "provincia": "MISIONES"
+   },
    "geometry": {
-    "type": "MultiPolygon",
     "coordinates": [
      [
       [
@@ -33526,23 +33371,8 @@
        ]
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "IGUAZU",
-    "fuente1": "IGM",
-    "objectid": 401,
-    "st_area_sh": "2.42844021268e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "PUERTO ESPERANZA",
-    "last_edite": "",
-    "st_length_": "2.96408008139e+000",
-    "provincia": "MISIONES",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "54063"
+    ],
+    "type": "MultiPolygon"
    }
   }
  ]

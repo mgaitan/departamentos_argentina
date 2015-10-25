@@ -3,8 +3,13 @@
  "features": [
   {
    "type": "Feature",
+   "properties": {
+    "id": 387,
+    "departamento": "ATREUCO",
+    "cabecera": "MACACHIN",
+    "provincia": "LA PAMPA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -112,29 +117,19 @@
        -36.812038422
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ATREUCO",
-    "fuente1": "IGM",
-    "objectid": 387,
-    "st_area_sh": "3.56776613318e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "MACACHIN",
-    "last_edite": "",
-    "st_length_": "2.47639283743e+000",
-    "provincia": "LA PAMPA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "42007"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 246,
+    "departamento": "REALICO",
+    "cabecera": "REALICO",
+    "provincia": "LA PAMPA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -186,29 +181,19 @@
        -34.99999323899999
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "REALICO",
-    "fuente1": "IGM",
-    "objectid": 246,
-    "st_area_sh": "2.51796551370e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "REALICO",
-    "last_edite": "",
-    "st_length_": "2.01454557831e+000",
-    "provincia": "LA PAMPA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "42133"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 247,
+    "departamento": "TRENEL",
+    "cabecera": "TRENEL",
+    "provincia": "LA PAMPA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -264,29 +249,19 @@
        -35.46022415200002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "TRENEL",
-    "fuente1": "IGM",
-    "objectid": 247,
-    "st_area_sh": "1.96687003022e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "TRENEL",
-    "last_edite": "",
-    "st_length_": "1.81580076888e+000",
-    "provincia": "LA PAMPA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "42147"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 248,
+    "departamento": "CHALILEO",
+    "cabecera": "SANTA ISABEL",
+    "provincia": "LA PAMPA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -390,29 +365,19 @@
        -36.799613953000005
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CHALILEO",
-    "fuente1": "IGM",
-    "objectid": 248,
-    "st_area_sh": "8.88583226452e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SANTA ISABEL",
-    "last_edite": "",
-    "st_length_": "3.82829858606e+000",
-    "provincia": "LA PAMPA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "42049"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 249,
+    "departamento": "LOVENTUE",
+    "cabecera": "VICTORICA",
+    "provincia": "LA PAMPA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -544,29 +509,19 @@
        -36.26215744000001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LOVENTUE",
-    "fuente1": "IGM",
-    "objectid": 249,
-    "st_area_sh": "9.13545831202e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VICTORICA",
-    "last_edite": "",
-    "st_length_": "3.85482699587e+000",
-    "provincia": "LA PAMPA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "42098"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 250,
+    "departamento": "TOAY",
+    "cabecera": "TOAY",
+    "provincia": "LA PAMPA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -658,29 +613,19 @@
        -36.268085480000025
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "TOAY",
-    "fuente1": "IGM",
-    "objectid": 250,
-    "st_area_sh": "5.14049685984e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "TOAY",
-    "last_edite": "",
-    "st_length_": "3.19144922359e+000",
-    "provincia": "LA PAMPA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "42140"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 251,
+    "departamento": "CAPITAL",
+    "cabecera": "SANTA ROSA",
+    "provincia": "LA PAMPA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -748,29 +693,19 @@
        -36.27140426599999
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CAPITAL",
-    "fuente1": "IGM",
-    "objectid": 251,
-    "st_area_sh": "2.53429485944e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SANTA ROSA",
-    "last_edite": "",
-    "st_length_": "2.15436852221e+000",
-    "provincia": "LA PAMPA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "42021"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 252,
+    "departamento": "LIMAY MAHUIDA",
+    "cabecera": "LIMAY MAHUIDA",
+    "provincia": "LA PAMPA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -830,29 +765,19 @@
        -36.961040497
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LIMAY MAHUIDA",
-    "fuente1": "IGM",
-    "objectid": 252,
-    "st_area_sh": "1.03145456323e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LIMAY MAHUIDA",
-    "last_edite": "",
-    "st_length_": "4.08724159058e+000",
-    "provincia": "LA PAMPA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "42091"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 253,
+    "departamento": "UTRACAN",
+    "cabecera": "GENERAL ACHA",
+    "provincia": "LA PAMPA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -940,29 +865,19 @@
        -36.986850738999976
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "UTRACAN",
-    "fuente1": "IGM",
-    "objectid": 253,
-    "st_area_sh": "1.30159237836e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "GENERAL ACHA",
-    "last_edite": "",
-    "st_length_": "5.09431822969e+000",
-    "provincia": "LA PAMPA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "42154"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 254,
+    "departamento": "CURACO",
+    "cabecera": "PUELCHES",
+    "provincia": "LA PAMPA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -5102,29 +5017,19 @@
        -38.25601458400001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CURACO",
-    "fuente1": "IGM",
-    "objectid": 254,
-    "st_area_sh": "1.39151823848e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "PUELCHES",
-    "last_edite": "",
-    "st_length_": "5.44090846793e+000",
-    "provincia": "LA PAMPA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "42042"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 255,
+    "departamento": "LIHUEL CALEL",
+    "cabecera": "CUCHILLO CO",
+    "provincia": "LA PAMPA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -7676,29 +7581,19 @@
        -37.715206146000014
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LIHUEL CALEL",
-    "fuente1": "IGM",
-    "objectid": 255,
-    "st_area_sh": "1.26796682617e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CUCHILLO CO",
-    "last_edite": "",
-    "st_length_": "4.84568378648e+000",
-    "provincia": "LA PAMPA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "42084"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 256,
+    "departamento": "RANCUL",
+    "cabecera": "PARERA",
+    "provincia": "LA PAMPA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -7782,29 +7677,19 @@
        -34.99999190400001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "RANCUL",
-    "fuente1": "IGM",
-    "objectid": 256,
-    "st_area_sh": "5.11876995191e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "PARERA",
-    "last_edite": "",
-    "st_length_": "2.88412788866e+000",
-    "provincia": "LA PAMPA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "42126"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 257,
+    "departamento": "CONHELO",
+    "cabecera": "EDUARDO CASTEX",
+    "provincia": "LA PAMPA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -7940,29 +7825,19 @@
        -35.814556122
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CONHELO",
-    "fuente1": "IGM",
-    "objectid": 257,
-    "st_area_sh": "5.16689157997e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "EDUARDO CASTEX",
-    "last_edite": "",
-    "st_length_": "3.27157715019e+000",
-    "provincia": "LA PAMPA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "42035"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 384,
+    "departamento": "MARACO",
+    "cabecera": "GENERAL PICO",
+    "provincia": "LA PAMPA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -8058,29 +7933,19 @@
        -35.88415955099998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "MARACO",
-    "fuente1": "IGM",
-    "objectid": 384,
-    "st_area_sh": "2.50257770697e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "GENERAL PICO",
-    "last_edite": "",
-    "st_length_": "2.01138710018e+000",
-    "provincia": "LA PAMPA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "42105"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 385,
+    "departamento": "QUEMU QUEMU",
+    "cabecera": "QUEMU QUEMU",
+    "provincia": "LA PAMPA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -8204,29 +8069,19 @@
        -35.913399391999974
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "QUEMU QUEMU",
-    "fuente1": "IGM",
-    "objectid": 385,
-    "st_area_sh": "2.49329159378e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "QUEMU QUEMU",
-    "last_edite": "",
-    "st_length_": "2.00755762698e+000",
-    "provincia": "LA PAMPA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "42119"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 386,
+    "departamento": "CATRILO",
+    "cabecera": "CATRILO",
+    "provincia": "LA PAMPA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -8358,29 +8213,19 @@
        -36.36451984500002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CATRILO",
-    "fuente1": "IGM",
-    "objectid": 386,
-    "st_area_sh": "2.47990782667e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CATRILO",
-    "last_edite": "",
-    "st_length_": "2.00355969612e+000",
-    "provincia": "LA PAMPA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "42028"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 388,
+    "departamento": "CALEU CALEU",
+    "cabecera": "LA ADELA",
+    "provincia": "LA PAMPA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -11904,29 +11749,19 @@
        -38.25710491900003
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CALEU CALEU",
-    "fuente1": "IGM",
-    "objectid": 388,
-    "st_area_sh": "9.26525516760e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LA ADELA",
-    "last_edite": "",
-    "st_length_": "4.55886378820e+000",
-    "provincia": "LA PAMPA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "42014"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 389,
+    "departamento": "GUATRACHE",
+    "cabecera": "GUATRACHE",
+    "provincia": "LA PAMPA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -12038,29 +11873,19 @@
        -37.269927474999974
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GUATRACHE",
-    "fuente1": "IGM",
-    "objectid": 389,
-    "st_area_sh": "3.53712029706e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "GUATRACHE",
-    "last_edite": "",
-    "st_length_": "2.46933713074e+000",
-    "provincia": "LA PAMPA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "42070"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 390,
+    "departamento": "HUCAL",
+    "cabecera": "BERNASCONI",
+    "provincia": "LA PAMPA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -12176,29 +12001,19 @@
        -37.717918396000016
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "HUCAL",
-    "fuente1": "IGM",
-    "objectid": 390,
-    "st_area_sh": "6.04143686429e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "BERNASCONI",
-    "last_edite": "",
-    "st_length_": "3.32651399038e+000",
-    "provincia": "LA PAMPA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "42077"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 392,
+    "departamento": "CHAPALEUFU",
+    "cabecera": "INTENDENTE ALVEAR",
+    "provincia": "LA PAMPA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -12274,29 +12089,19 @@
        -34.99999424399999
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CHAPALEUFU",
-    "fuente1": "IGM",
-    "objectid": 392,
-    "st_area_sh": "2.54526526965e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "INTENDENTE ALVEAR",
-    "last_edite": "",
-    "st_length_": "2.02647835804e+000",
-    "provincia": "LA PAMPA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "42056"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 495,
+    "departamento": "CHICAL CO",
+    "cabecera": "ALGARROBO DEL AGUILA",
+    "provincia": "LA PAMPA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -12376,29 +12181,19 @@
        -36.31359184299998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CHICAL CO",
-    "fuente1": "IGM",
-    "objectid": 495,
-    "st_area_sh": "9.22823399762e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "ALGARROBO DEL AGUILA",
-    "last_edite": "",
-    "st_length_": "3.97377830547e+000",
-    "provincia": "LA PAMPA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "42063"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 496,
+    "departamento": "PUELEN",
+    "cabecera": "25 DE MAYO",
+    "provincia": "LA PAMPA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -18706,23 +18501,8 @@
        -37.34385759700001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "PUELEN",
-    "fuente1": "IGM",
-    "objectid": 496,
-    "st_area_sh": "1.35346282908e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "25 DE MAYO",
-    "last_edite": "",
-    "st_length_": "5.92276631073e+000",
-    "provincia": "LA PAMPA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "42112"
+    ],
+    "type": "Polygon"
    }
   }
  ]

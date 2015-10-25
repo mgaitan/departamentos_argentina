@@ -3,8 +3,13 @@
  "features": [
   {
    "type": "Feature",
+   "properties": {
+    "id": 187,
+    "departamento": "AYACUCHO",
+    "cabecera": "SAN FRANCISCO DEL MONTE DE ORO",
+    "provincia": "SAN LUIS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -33800,29 +33805,19 @@
        -32.211908979999976
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "AYACUCHO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 187,
-    "st_area_sh": "8.08576682980e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN FRANCISCO DEL MONTE DE ORO",
-    "last_edite": "",
-    "st_length_": "5.61356561323e+000",
-    "provincia": "SAN LUIS",
-    "fec_actual": "",
-    "fuente": "CATASTRO DE SAN LUIS",
-    "created_da": "",
-    "cod_depto": "74007"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 188,
+    "departamento": "GOBERNADOR DUPUY",
+    "cabecera": "BUENA ESPERANZA",
+    "provincia": "SAN LUIS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -37894,29 +37889,19 @@
        -35.000001908
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GOBERNADOR DUPUY",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 188,
-    "st_area_sh": "1.81741439742e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "BUENA ESPERANZA",
-    "last_edite": "",
-    "st_length_": "6.26678236669e+000",
-    "provincia": "SAN LUIS",
-    "fec_actual": "",
-    "fuente": "CATASTRO DE SAN LUIS",
-    "created_da": "",
-    "cod_depto": "74042"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 449,
+    "departamento": "CHACABUCO",
+    "cabecera": "CONCARAN",
+    "provincia": "SAN LUIS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -47036,29 +47021,19 @@
        -32.47984466700001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CHACABUCO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 449,
-    "st_area_sh": "2.32470665768e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CONCARAN",
-    "last_edite": "",
-    "st_length_": "2.60446531398e+000",
-    "provincia": "SAN LUIS",
-    "fec_actual": "",
-    "fuente": "CATASTRO DE SAN LUIS",
-    "created_da": "",
-    "cod_depto": "74028"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 450,
+    "departamento": "JUAN MARTIN DE PUEYRREDON",
+    "cabecera": "SAN LUIS",
+    "provincia": "SAN LUIS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -54486,29 +54461,19 @@
        -33.104589583000006
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "JUAN MARTIN DE PUEYRREDON",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 450,
-    "st_area_sh": "1.32265244393e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN LUIS",
-    "last_edite": "",
-    "st_length_": "6.84723088988e+000",
-    "provincia": "SAN LUIS",
-    "fec_actual": "",
-    "fuente": "CATASTRO DE SAN LUIS",
-    "created_da": "",
-    "cod_depto": "74056"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 451,
+    "departamento": "GENERAL PEDERNERA",
+    "cabecera": "VILLA MERCEDES",
+    "provincia": "SAN LUIS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -60960,29 +60925,19 @@
        -32.96180119899998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GENERAL PEDERNERA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 451,
-    "st_area_sh": "1.43935287242e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA MERCEDES",
-    "last_edite": "",
-    "st_length_": "6.35574304978e+000",
-    "provincia": "SAN LUIS",
-    "fec_actual": "",
-    "fuente": "CATASTRO DE SAN LUIS",
-    "created_da": "",
-    "cod_depto": "74035"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 452,
+    "departamento": "LIBERTADOR GENERAL SAN MARTIN",
+    "cabecera": "",
+    "provincia": "SAN LUIS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -77010,29 +76965,19 @@
        -32.21301626600001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LIBERTADOR GENERAL SAN MARTIN",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 452,
-    "st_area_sh": "3.33823497416e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "",
-    "last_edite": "",
-    "st_length_": "3.21720760993e+000",
-    "provincia": "SAN LUIS",
-    "fec_actual": "",
-    "fuente": "CATASTRO DE SAN LUIS",
-    "created_da": "",
-    "cod_depto": "74063"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 453,
+    "departamento": "CORONEL PRINGLES",
+    "cabecera": "LA TOMA",
+    "provincia": "SAN LUIS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -123560,29 +123505,19 @@
        -32.760418465999976
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CORONEL PRINGLES",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 453,
-    "st_area_sh": "3.72304154370e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LA TOMA",
-    "last_edite": "",
-    "st_length_": "3.80211424968e+000",
-    "provincia": "SAN LUIS",
-    "fec_actual": "",
-    "fuente": "CATASTRO DE SAN LUIS",
-    "created_da": "",
-    "cod_depto": "74021"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 454,
+    "departamento": "JUNIN",
+    "cabecera": "SANTA ROSA DE CONLARA",
+    "provincia": "SAN LUIS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -129730,29 +129665,19 @@
        -31.888636612000028
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "JUNIN",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 454,
-    "st_area_sh": "2.54041742728e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SANTA ROSA DE CONLARA",
-    "last_edite": "",
-    "st_length_": "3.41285168963e+000",
-    "provincia": "SAN LUIS",
-    "fec_actual": "",
-    "fuente": "CATASTRO DE SAN LUIS",
-    "created_da": "",
-    "cod_depto": "74049"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 455,
+    "departamento": "BELGRANO",
+    "cabecera": "VILLA GENERAL ROCA",
+    "provincia": "SAN LUIS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -134060,23 +133985,8 @@
        -32.339874914000006
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "BELGRANO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 455,
-    "st_area_sh": "7.81122932808e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA GENERAL ROCA",
-    "last_edite": "",
-    "st_length_": "4.49892243604e+000",
-    "provincia": "SAN LUIS",
-    "fec_actual": "",
-    "fuente": "CATASTRO DE SAN LUIS",
-    "created_da": "",
-    "cod_depto": "74014"
+    ],
+    "type": "Polygon"
    }
   }
  ]

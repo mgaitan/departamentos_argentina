@@ -3,8 +3,13 @@
  "features": [
   {
    "type": "Feature",
+   "properties": {
+    "id": 395,
+    "departamento": "CORONEL FELIPE VARELA",
+    "cabecera": "VILLA UNION",
+    "provincia": "LA RIOJA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -5968,29 +5973,19 @@
        -29.077093123999987
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CORONEL FELIPE VARELA",
-    "fuente1": "IGM",
-    "objectid": 395,
-    "st_area_sh": "7.69503479610e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA UNION",
-    "last_edite": "",
-    "st_length_": "4.62439984932e+000",
-    "provincia": "LA RIOJA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "46028"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 231,
+    "departamento": "CASTRO BARROS",
+    "cabecera": "AMINGA",
+    "provincia": "LA RIOJA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -6366,29 +6361,19 @@
        -28.852306365999993
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CASTRO BARROS",
-    "fuente1": "IGM",
-    "objectid": 231,
-    "st_area_sh": "1.41276430775e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "AMINGA",
-    "last_edite": "",
-    "st_length_": "1.53314950231e+000",
-    "provincia": "LA RIOJA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "46021"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 232,
+    "departamento": "SANAGASTA",
+    "cabecera": "VILLA SANAGASTA",
+    "provincia": "LA RIOJA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -7352,29 +7337,19 @@
        -29.174427031999983
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SANAGASTA",
-    "fuente1": "IGM",
-    "objectid": 232,
-    "st_area_sh": "1.20943846867e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA SANAGASTA",
-    "last_edite": "",
-    "st_length_": "1.47854049764e+000",
-    "provincia": "LA RIOJA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "46126"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 238,
+    "departamento": "GENERAL OCAMPO",
+    "cabecera": "VILLA SANTA RITA DE CATUNA",
+    "provincia": "LA RIOJA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -7506,29 +7481,19 @@
        -30.754002074000027
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GENERAL OCAMPO",
-    "fuente1": "IGM",
-    "objectid": 238,
-    "st_area_sh": "3.53035495967e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA SANTA RITA DE CATUNA",
-    "last_edite": "",
-    "st_length_": "2.58683658358e+000",
-    "provincia": "LA RIOJA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "46084"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 233,
+    "departamento": "CHILECITO",
+    "cabecera": "CHILECITO",
+    "provincia": "LA RIOJA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -8920,29 +8885,19 @@
        -29.405513762999988
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CHILECITO",
-    "fuente1": "IGM",
-    "objectid": 233,
-    "st_area_sh": "4.87299490407e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CHILECITO",
-    "last_edite": "",
-    "st_length_": "2.96959145092e+000",
-    "provincia": "LA RIOJA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "46042"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 234,
+    "departamento": "GENERAL ANGEL V. PE\u00d1ALOZA",
+    "cabecera": "TAMA",
+    "provincia": "LA RIOJA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -10010,29 +9965,19 @@
        -30.18642425500002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GENERAL ANGEL V. PE\u00d1ALOZA",
-    "fuente1": "IGM",
-    "objectid": 234,
-    "st_area_sh": "2.93251807146e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "TAMA",
-    "last_edite": "",
-    "st_length_": "2.61676057340e+000",
-    "provincia": "LA RIOJA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "46056"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 239,
+    "departamento": "GENERAL BELGRANO",
+    "cabecera": "OLTA",
+    "provincia": "LA RIOJA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -10368,29 +10313,19 @@
        -30.371718310999995
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GENERAL BELGRANO",
-    "fuente1": "IGM",
-    "objectid": 239,
-    "st_area_sh": "2.65293620202e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "OLTA",
-    "last_edite": "",
-    "st_length_": "2.31685713064e+000",
-    "provincia": "LA RIOJA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "46063"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 240,
+    "departamento": "CHAMICAL",
+    "cabecera": "CHAMICAL",
+    "provincia": "LA RIOJA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -10774,29 +10709,19 @@
        -29.827723735999996
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CHAMICAL",
-    "fuente1": "IGM",
-    "objectid": 240,
-    "st_area_sh": "5.16204507116e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CHAMICAL",
-    "last_edite": "",
-    "st_length_": "2.94010920426e+000",
-    "provincia": "LA RIOJA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "46035"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 235,
+    "departamento": "INDEPENDENCIA",
+    "cabecera": "PATQUIA",
+    "provincia": "LA RIOJA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -13484,29 +13409,19 @@
        -29.818956375000027
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "INDEPENDENCIA",
-    "fuente1": "IGM",
-    "objectid": 235,
-    "st_area_sh": "6.57565625764e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "PATQUIA",
-    "last_edite": "",
-    "st_length_": "3.47619460221e+000",
-    "provincia": "LA RIOJA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "46105"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 236,
+    "departamento": "GENERAL JUAN F. QUIROGA",
+    "cabecera": "MALANZAN",
+    "provincia": "LA RIOJA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -14322,29 +14237,19 @@
        -31.09574890099998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GENERAL JUAN F. QUIROGA",
-    "fuente1": "IGM",
-    "objectid": 236,
-    "st_area_sh": "4.06300387989e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "MALANZAN",
-    "last_edite": "",
-    "st_length_": "3.16404563004e+000",
-    "provincia": "LA RIOJA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "46070"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 237,
+    "departamento": "ROSARIO VERA PE\u00d1ALOZA",
+    "cabecera": "CHEPES",
+    "provincia": "LA RIOJA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -14880,29 +14785,19 @@
        -31.09574890099998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ROSARIO VERA PE\u00d1ALOZA",
-    "fuente1": "IGM",
-    "objectid": 237,
-    "st_area_sh": "4.76811654089e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CHEPES",
-    "last_edite": "",
-    "st_length_": "2.96276107370e+000",
-    "provincia": "LA RIOJA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "46112"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 241,
+    "departamento": "GENERAL SAN MARTIN",
+    "cabecera": "ULAPES",
+    "provincia": "LA RIOJA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -16126,29 +16021,19 @@
        -31.73863033600003
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GENERAL SAN MARTIN",
-    "fuente1": "IGM",
-    "objectid": 241,
-    "st_area_sh": "4.25577636429e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "ULAPES",
-    "last_edite": "",
-    "st_length_": "3.55319791460e+000",
-    "provincia": "LA RIOJA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "46091"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 242,
+    "departamento": "VINCHINA",
+    "cabecera": "VILLA SAN JOSE DE VINCHINA",
+    "provincia": "LA RIOJA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -27460,29 +27345,19 @@
        -27.819880082999987
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "VINCHINA",
-    "fuente1": "IGM",
-    "objectid": 242,
-    "st_area_sh": "1.04956447557e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA SAN JOSE DE VINCHINA",
-    "last_edite": "",
-    "st_length_": "5.48052121552e+000",
-    "provincia": "LA RIOJA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "46098"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 243,
+    "departamento": "FAMATINA",
+    "cabecera": "FAMATINA",
+    "provincia": "LA RIOJA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -29314,29 +29189,19 @@
        -28.368020778000016
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "FAMATINA",
-    "fuente1": "IGM",
-    "objectid": 243,
-    "st_area_sh": "3.85033576867e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "FAMATINA",
-    "last_edite": "",
-    "st_length_": "2.71632066786e+000",
-    "provincia": "LA RIOJA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "46049"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 244,
+    "departamento": "SAN BLAS DE LOS SAUCES",
+    "cabecera": "SAN BLAS",
+    "provincia": "LA RIOJA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -30624,29 +30489,19 @@
        -28.266170627999998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN BLAS DE LOS SAUCES",
-    "fuente1": "IGM",
-    "objectid": 244,
-    "st_area_sh": "1.32642565059e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN BLAS",
-    "last_edite": "",
-    "st_length_": "1.99394629016e+000",
-    "provincia": "LA RIOJA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "46119"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 245,
+    "departamento": "ARAUCO",
+    "cabecera": "AIMOGASTA",
+    "provincia": "LA RIOJA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -31678,29 +31533,19 @@
        -28.732886552000025
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ARAUCO",
-    "fuente1": "IGM",
-    "objectid": 245,
-    "st_area_sh": "2.32751386114e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "AIMOGASTA",
-    "last_edite": "",
-    "st_length_": "2.16879789936e+000",
-    "provincia": "LA RIOJA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "46007"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 300,
+    "departamento": "GENERAL LAMADRID",
+    "cabecera": "VILLA CASTELLI",
+    "provincia": "LA RIOJA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -36292,29 +36137,19 @@
        -28.199595466000005
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GENERAL LAMADRID",
-    "fuente1": "IGM",
-    "objectid": 300,
-    "st_area_sh": "5.66785962294e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA CASTELLI",
-    "last_edite": "",
-    "st_length_": "4.65445986242e+000",
-    "provincia": "LA RIOJA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "46077"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 432,
+    "departamento": "CAPITAL",
+    "cabecera": "LA RIOJA",
+    "provincia": "LA RIOJA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -37938,23 +37773,8 @@
        -28.814208984000004
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CAPITAL",
-    "fuente1": "IGM",
-    "objectid": 432,
-    "st_area_sh": "1.24924098702e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LA RIOJA",
-    "last_edite": "",
-    "st_length_": "5.14302146936e+000",
-    "provincia": "LA RIOJA",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "46014"
+    ],
+    "type": "Polygon"
    }
   }
  ]

@@ -3,8 +3,13 @@
  "features": [
   {
    "type": "Feature",
+   "properties": {
+    "id": 177,
+    "departamento": "FIGUEROA",
+    "cabecera": "LA CA\u00a5ADA",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -472,29 +477,19 @@
        -26.903764017000015
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "FIGUEROA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 177,
-    "st_area_sh": "6.18119284906e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LA CA\u00a5ADA",
-    "last_edite": "",
-    "st_length_": "4.36873285741e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86070"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 178,
+    "departamento": "AVELLANEDA",
+    "cabecera": "HERRERA",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -3722,29 +3717,19 @@
        -28.249892767000006
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "AVELLANEDA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 178,
-    "st_area_sh": "3.34406382483e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "HERRERA",
-    "last_edite": "",
-    "st_length_": "3.94672987209e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86028"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 176,
+    "departamento": "PELLEGRINI",
+    "cabecera": "NUEVA ESPERANZA",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -7788,29 +7773,19 @@
        -25.751129196000022
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "PELLEGRINI",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 176,
-    "st_area_sh": "6.81106304533e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "NUEVA ESPERANZA",
-    "last_edite": "",
-    "st_length_": "4.20959297980e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86133"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 179,
+    "departamento": "SALAVINA",
+    "cabecera": "LOS TELARES",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -9914,29 +9889,19 @@
        -28.507012443000008
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SALAVINA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 179,
-    "st_area_sh": "3.34062279329e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LOS TELARES",
-    "last_edite": "",
-    "st_length_": "3.12591540157e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86168"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 183,
+    "departamento": "GENERAL TABOADA",
+    "cabecera": "A\u00a5ATUYA",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -11996,29 +11961,19 @@
        -28.334509589999982
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GENERAL TABOADA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 183,
-    "st_area_sh": "5.48523081487e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "A\u00a5ATUYA",
-    "last_edite": "",
-    "st_length_": "3.64271128280e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86077"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 180,
+    "departamento": "ALBERDI",
+    "cabecera": "CAMPO GALLO",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -14398,29 +14353,19 @@
        -26.240539582999986
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ALBERDI",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 180,
-    "st_area_sh": "1.13763794709e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CAMPO GALLO",
-    "last_edite": "",
-    "st_length_": "5.92941300907e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86014"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 181,
+    "departamento": "MORENO",
+    "cabecera": "QUIMILI",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -14736,29 +14681,19 @@
        -26.80085905200002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "MORENO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 181,
-    "st_area_sh": "1.48090440477e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "QUIMILI",
-    "last_edite": "",
-    "st_length_": "5.40828987630e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86119"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 182,
+    "departamento": "JUAN F IBARRA",
+    "cabecera": "SUNCHO CORRAL",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -17230,29 +17165,19 @@
        -27.72733278300001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "JUAN F IBARRA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 182,
-    "st_area_sh": "8.77539624711e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SUNCHO CORRAL",
-    "last_edite": "",
-    "st_length_": "4.76466101699e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86098"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 186,
+    "departamento": "CHOYA",
+    "cabecera": "FRIAS",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -18708,29 +18633,19 @@
        -28.129155129000026
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CHOYA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 186,
-    "st_area_sh": "5.79795005352e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "FRIAS",
-    "last_edite": "",
-    "st_length_": "4.71066597164e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86063"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 184,
+    "departamento": "RIVADAVIA",
+    "cabecera": "SELVA",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -20858,29 +20773,19 @@
        -29.678815450000002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "RIVADAVIA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 184,
-    "st_area_sh": "4.11196724558e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SELVA",
-    "last_edite": "",
-    "st_length_": "3.25941825863e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86154"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 185,
+    "departamento": "OJO DE AGUA",
+    "cabecera": "VILLA OJO DE AGUA",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -23024,29 +22929,19 @@
        -28.806809981000015
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "OJO DE AGUA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 185,
-    "st_area_sh": "6.09525472258e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA OJO DE AGUA",
-    "last_edite": "",
-    "st_length_": "4.40457163370e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86126"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 518,
+    "departamento": "SILIPICA",
+    "cabecera": "ARRAGA",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -23682,29 +23577,19 @@
        -28.103926081999987
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SILIPICA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 518,
-    "st_area_sh": "1.08590164070e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "ARRAGA",
-    "last_edite": "",
-    "st_length_": "1.66362197136e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86189"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 429,
+    "departamento": "COPO",
+    "cabecera": "MONTE QUEMADO",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -26340,29 +26225,19 @@
        -25.654669022000007
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "COPO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 429,
-    "st_area_sh": "1.22951945898e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "MONTE QUEMADO",
-    "last_edite": "",
-    "st_length_": "5.99003764005e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86056"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 430,
+    "departamento": "RIO HONDO",
+    "cabecera": "TERMAS DE RIO HONDO",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -27042,29 +26917,19 @@
        -27.186515627000006
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "RIO HONDO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 430,
-    "st_area_sh": "1.88843266071e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "TERMAS DE RIO HONDO",
-    "last_edite": "",
-    "st_length_": "2.30002625040e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86147"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 515,
+    "departamento": "BANDA",
+    "cabecera": "LA BANDA",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -27796,29 +27661,19 @@
        -27.100489123999978
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "BANDA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 515,
-    "st_area_sh": "3.39081472186e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LA BANDA",
-    "last_edite": "",
-    "st_length_": "3.17750373732e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86035"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 516,
+    "departamento": "ROBLES",
+    "cabecera": "FERNANDEZ",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -28158,29 +28013,19 @@
        -27.74361279200002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ROBLES",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 516,
-    "st_area_sh": "1.25658505193e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "FERNANDEZ",
-    "last_edite": "",
-    "st_length_": "1.70960562694e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86161"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 517,
+    "departamento": "CAPITAL",
+    "cabecera": "SANTIAGO DEL ESTERO",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -28820,29 +28665,19 @@
        -27.601011857999993
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CAPITAL",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 517,
-    "st_area_sh": "1.91404445567e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SANTIAGO DEL ESTERO",
-    "last_edite": "",
-    "st_length_": "2.39930903909e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86049"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 519,
+    "departamento": "SAN MARTIN",
+    "cabecera": "BREA POZO",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -30642,29 +30477,19 @@
        -27.999343545999977
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN MARTIN",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 519,
-    "st_area_sh": "1.89160602130e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "BREA POZO",
-    "last_edite": "",
-    "st_length_": "2.28766682082e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86175"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 520,
+    "departamento": "MITRE",
+    "cabecera": "VILLA UNION",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -32588,29 +32413,19 @@
        -29.207522401999995
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "MITRE",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 520,
-    "st_area_sh": "2.56059841727e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA UNION",
-    "last_edite": "",
-    "st_length_": "2.73825326861e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86112"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 521,
+    "departamento": "SARMIENTO",
+    "cabecera": "GARZA",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -34826,29 +34641,19 @@
        -27.832304770000007
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SARMIENTO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 521,
-    "st_area_sh": "1.39674948474e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "GARZA",
-    "last_edite": "",
-    "st_length_": "2.03283356126e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86182"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 522,
+    "departamento": "ATAMISQUI",
+    "cabecera": "VILLA ATAMISQUI",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -36880,29 +36685,19 @@
        -28.400470418999987
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ATAMISQUI",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 522,
-    "st_area_sh": "2.11142880767e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA ATAMISQUI",
-    "last_edite": "",
-    "st_length_": "2.12590767982e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86021"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 523,
+    "departamento": "LORETO",
+    "cabecera": "LORETO",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -38014,29 +37809,19 @@
        -28.314893272000006
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LORETO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 523,
-    "st_area_sh": "2.85874310285e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LORETO",
-    "last_edite": "",
-    "st_length_": "3.24485368871e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86105"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 524,
+    "departamento": "GUASAYAN",
+    "cabecera": "SAN PEDRO DE GUASAY\u00c1N",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -38348,29 +38133,19 @@
        -27.66379563800001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GUASAYAN",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 524,
-    "st_area_sh": "2.43850963067e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN PEDRO DE GUASAY\u00c1N",
-    "last_edite": "",
-    "st_length_": "2.48072778942e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86084"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 525,
+    "departamento": "JIMENEZ",
+    "cabecera": "POZO HONDO",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -39994,29 +39769,19 @@
        -26.608512615999985
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "JIMENEZ",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 525,
-    "st_area_sh": "4.44446031611e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "POZO HONDO",
-    "last_edite": "",
-    "st_length_": "4.68091497723e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86091"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 526,
+    "departamento": "QUEBRACHOS",
+    "cabecera": "SUMAMPA",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -43972,29 +43737,19 @@
        -28.935434880000003
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "QUEBRACHOS",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 526,
-    "st_area_sh": "3.50210520096e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SUMAMPA",
-    "last_edite": "",
-    "st_length_": "3.41730840119e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86140"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 527,
+    "departamento": "BELGRANO",
+    "cabecera": "BANDERA",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -48342,29 +48097,19 @@
        -28.878156961000002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "BELGRANO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 527,
-    "st_area_sh": "2.93780655396e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "BANDERA",
-    "last_edite": "",
-    "st_length_": "3.04671695278e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86042"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 528,
+    "departamento": "AGUIRRE",
+    "cabecera": "PINTO",
+    "provincia": "SANTIAGO DEL ESTERO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -52800,23 +52545,8 @@
        -28.906337705999988
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "AGUIRRE",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 528,
-    "st_area_sh": "3.30100769960e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "PINTO",
-    "last_edite": "",
-    "st_length_": "4.15426849768e+000",
-    "provincia": "SANTIAGO DEL ESTERO",
-    "fec_actual": "SEPTIEMBRE 2013",
-    "fuente": "CATASTRO SANTIAGO DEL ESTERO",
-    "created_da": "",
-    "cod_depto": "86007"
+    ],
+    "type": "Polygon"
    }
   }
  ]

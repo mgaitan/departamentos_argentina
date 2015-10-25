@@ -3,8 +3,13 @@
  "features": [
   {
    "type": "Feature",
+   "properties": {
+    "id": 288,
+    "departamento": "MAGALLANES",
+    "cabecera": "SAN JULIAN",
+    "provincia": "SANTA CRUZ"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -3264,29 +3269,19 @@
        -48.411594390999994
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "MAGALLANES",
-    "fuente1": "IGM",
-    "objectid": 288,
-    "st_area_sh": "2.48949222083e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN JULIAN",
-    "last_edite": "",
-    "st_length_": "8.60929985336e+000",
-    "provincia": "SANTA CRUZ",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "78042"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 289,
+    "departamento": "CORPEN AIKE",
+    "cabecera": "PUERTO SANTA CRUZ",
+    "provincia": "SANTA CRUZ"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -6002,29 +5997,19 @@
        -49.20867156999998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CORPEN AIKE",
-    "fuente1": "IGM",
-    "objectid": 289,
-    "st_area_sh": "3.28841783001e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "PUERTO SANTA CRUZ",
-    "last_edite": "",
-    "st_length_": "1.02352117095e+001",
-    "provincia": "SANTA CRUZ",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "78007"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 290,
+    "departamento": "DESEADO",
+    "cabecera": "PUERTO DESEADO",
+    "provincia": "SANTA CRUZ"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -18296,29 +18281,19 @@
        -46.00423053200001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "DESEADO",
-    "fuente1": "IGM",
-    "objectid": 290,
-    "st_area_sh": "7.50889599731e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "PUERTO DESEADO",
-    "last_edite": "",
-    "st_length_": "1.44877442576e+001",
-    "provincia": "SANTA CRUZ",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "78014"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 351,
+    "departamento": "RIO CHICO",
+    "cabecera": "GOBERNADOR GREGORES",
+    "provincia": "SANTA CRUZ"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -37410,29 +37385,19 @@
        -47.20561191500002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "RIO CHICO",
-    "fuente1": "IGM",
-    "objectid": 351,
-    "st_area_sh": "4.11675669451e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "GOBERNADOR GREGORES",
-    "last_edite": "",
-    "st_length_": "9.48626249585e+000",
-    "provincia": "SANTA CRUZ",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "78049"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 352,
+    "departamento": "LAGO ARGENTINO",
+    "cabecera": "CALAFATE",
+    "provincia": "SANTA CRUZ"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -59040,29 +59005,19 @@
        -48.48458525799998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LAGO ARGENTINO",
-    "fuente1": "IGM",
-    "objectid": 352,
-    "st_area_sh": "4.82398313893e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CALAFATE",
-    "last_edite": "",
-    "st_length_": "1.14050467957e+001",
-    "provincia": "SANTA CRUZ",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "78028"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 494,
+    "departamento": "LAGO BUENOS AIRES",
+    "cabecera": "PERITO MORENO",
+    "provincia": "SANTA CRUZ"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -69226,29 +69181,19 @@
        -46.00005543100002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LAGO BUENOS AIRES",
-    "fuente1": "IGM",
-    "objectid": 494,
-    "st_area_sh": "3.36448679454e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "PERITO MORENO",
-    "last_edite": "",
-    "st_length_": "9.23321980893e+000",
-    "provincia": "SANTA CRUZ",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "78035"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 514,
+    "departamento": "G\u00dcER AIKE",
+    "cabecera": "RIO GALLEGOS",
+    "provincia": "SANTA CRUZ"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -85836,23 +85781,8 @@
        -50.711669922
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "G\u00dcER AIKE",
-    "fuente1": "IGM",
-    "objectid": 514,
-    "st_area_sh": "4.34754473282e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "RIO GALLEGOS",
-    "last_edite": "",
-    "st_length_": "1.38209439642e+001",
-    "provincia": "SANTA CRUZ",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "78021"
+    ],
+    "type": "Polygon"
    }
   }
  ]

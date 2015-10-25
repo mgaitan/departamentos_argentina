@@ -3,8 +3,13 @@
  "features": [
   {
    "type": "Feature",
+   "properties": {
+    "id": 1,
+    "departamento": "CONCORDIA",
+    "cabecera": "CONCORDIA",
+    "provincia": "ENTRE RIOS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -4320,29 +4325,19 @@
        -30.838373183999977
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CONCORDIA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 1,
-    "st_area_sh": "3.03462673571e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CONCORDIA",
-    "last_edite": "",
-    "st_length_": "2.91776989234e+000",
-    "provincia": "ENTRE RIOS",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO ENTRE RIOS",
-    "created_da": "",
-    "cod_depto": "30015"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 2,
+    "departamento": "SAN SALVADOR",
+    "cabecera": "SAN SALVADOR",
+    "provincia": "ENTRE RIOS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -11194,29 +11189,19 @@
        -31.26935813199998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN SALVADOR",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 2,
-    "st_area_sh": "1.37807827725e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN SALVADOR",
-    "last_edite": "",
-    "st_length_": "2.67500957350e+000",
-    "provincia": "ENTRE RIOS",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO ENTRE RIOS",
-    "created_da": "",
-    "cod_depto": "30088"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 4,
+    "departamento": "VILLAGUAY",
+    "cabecera": "VILLAGUAY",
+    "provincia": "ENTRE RIOS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -16420,29 +16405,19 @@
        -31.812399660999972
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "VILLAGUAY",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 4,
-    "st_area_sh": "6.49744821910e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLAGUAY",
-    "last_edite": "",
-    "st_length_": "3.91521246914e+000",
-    "provincia": "ENTRE RIOS",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO ENTRE RIOS",
-    "created_da": "",
-    "cod_depto": "30113"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 3,
+    "departamento": "COLON",
+    "cabecera": "COLON",
+    "provincia": "ENTRE RIOS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -21034,29 +21009,19 @@
        -31.69218826299999
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "COLON",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 3,
-    "st_area_sh": "2.59238167230e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "COLON",
-    "last_edite": "",
-    "st_length_": "3.08692803277e+000",
-    "provincia": "ENTRE RIOS",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO ENTRE RIOS",
-    "created_da": "",
-    "cod_depto": "30008"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 5,
+    "departamento": "FEDERAL",
+    "cabecera": "FEDERAL",
+    "provincia": "ENTRE RIOS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -24304,29 +24269,19 @@
        -30.577577591000022
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "FEDERAL",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 5,
-    "st_area_sh": "4.99315808795e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "FEDERAL",
-    "last_edite": "",
-    "st_length_": "3.43616991608e+000",
-    "provincia": "ENTRE RIOS",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO ENTRE RIOS",
-    "created_da": "",
-    "cod_depto": "30035"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 6,
+    "departamento": "NOGOYA",
+    "cabecera": "NOGOYA",
+    "provincia": "ENTRE RIOS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -27438,29 +27393,19 @@
        -31.861824035999973
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "NOGOYA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 6,
-    "st_area_sh": "4.02595166874e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "NOGOYA",
-    "last_edite": "",
-    "st_length_": "3.32382344784e+000",
-    "provincia": "ENTRE RIOS",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO ENTRE RIOS",
-    "created_da": "",
-    "cod_depto": "30077"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 7,
+    "departamento": "TALA",
+    "cabecera": "RISARIO DEL TALA",
+    "provincia": "ENTRE RIOS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -29640,29 +29585,19 @@
        -31.914968491000025
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "TALA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 7,
-    "st_area_sh": "2.66538922605e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "RISARIO DEL TALA",
-    "last_edite": "",
-    "st_length_": "2.26655649055e+000",
-    "provincia": "ENTRE RIOS",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO ENTRE RIOS",
-    "created_da": "",
-    "cod_depto": "30091"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 8,
+    "departamento": "GUALEGUAYCHU",
+    "cabecera": "GUALEGUAYCHU",
+    "provincia": "ENTRE RIOS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -32630,29 +32565,19 @@
        -32.51011657700002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GUALEGUAYCHU",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 8,
-    "st_area_sh": "7.19419096656e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "GUALEGUAYCHU",
-    "last_edite": "",
-    "st_length_": "4.25790192476e+000",
-    "provincia": "ENTRE RIOS",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO ENTRE RIOS",
-    "created_da": "",
-    "cod_depto": "30056"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 9,
+    "departamento": "ISLAS DEL IBICUY",
+    "cabecera": "VILLA PARANACITO",
+    "provincia": "ENTRE RIOS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -35460,29 +35385,19 @@
        -33.190486908000025
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ISLAS DEL IBICUY",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 9,
-    "st_area_sh": "5.03208235864e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA PARANACITO",
-    "last_edite": "",
-    "st_length_": "3.88842851205e+000",
-    "provincia": "ENTRE RIOS",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO ENTRE RIOS",
-    "created_da": "",
-    "cod_depto": "30063"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 10,
+    "departamento": "GUALEGUAY",
+    "cabecera": "GUALEGUAY",
+    "provincia": "ENTRE RIOS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -40554,29 +40469,19 @@
        -32.51937103300003
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GUALEGUAY",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 10,
-    "st_area_sh": "6.46572178415e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "GUALEGUAY",
-    "last_edite": "",
-    "st_length_": "6.18621607693e+000",
-    "provincia": "ENTRE RIOS",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO ENTRE RIOS",
-    "created_da": "",
-    "cod_depto": "30049"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 11,
+    "departamento": "FEDERACION",
+    "cabecera": "FEDERACION",
+    "provincia": "ENTRE RIOS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -47136,29 +47041,19 @@
        -30.270805402999997
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "FEDERACION",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 11,
-    "st_area_sh": "3.40882127897e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "FEDERACION",
-    "last_edite": "",
-    "st_length_": "3.15001181519e+000",
-    "provincia": "ENTRE RIOS",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO ENTRE RIOS",
-    "created_da": "",
-    "cod_depto": "30028"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 12,
+    "departamento": "LA PAZ",
+    "cabecera": "LA PAZ",
+    "provincia": "ENTRE RIOS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -54250,29 +54145,19 @@
        -30.316372080000008
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LA PAZ",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 12,
-    "st_area_sh": "6.14862208056e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LA PAZ",
-    "last_edite": "",
-    "st_length_": "4.50229067343e+000",
-    "provincia": "ENTRE RIOS",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO ENTRE RIOS",
-    "created_da": "",
-    "cod_depto": "30070"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 13,
+    "departamento": "FELICIANO",
+    "cabecera": "SAN JOSE DE FELICIANO",
+    "provincia": "ENTRE RIOS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -63168,29 +63053,19 @@
        -30.160100982000017
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "FELICIANO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 13,
-    "st_area_sh": "2.74265650397e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN JOSE DE FELICIANO",
-    "last_edite": "",
-    "st_length_": "2.99084575662e+000",
-    "provincia": "ENTRE RIOS",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO ENTRE RIOS",
-    "created_da": "",
-    "cod_depto": "30042"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 14,
+    "departamento": "VICTORIA",
+    "cabecera": "VICTORIA",
+    "provincia": "ENTRE RIOS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -66986,29 +66861,19 @@
        -32.21660614000001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "VICTORIA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 14,
-    "st_area_sh": "6.42645774444e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VICTORIA",
-    "last_edite": "",
-    "st_length_": "4.41179866095e+000",
-    "provincia": "ENTRE RIOS",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO ENTRE RIOS",
-    "created_da": "",
-    "cod_depto": "30105"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 15,
+    "departamento": "DIAMANTE",
+    "cabecera": "DIAMANTE",
+    "provincia": "ENTRE RIOS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -69276,29 +69141,19 @@
        -31.946550369000022
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "DIAMANTE",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 15,
-    "st_area_sh": "2.39297203490e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "DIAMANTE",
-    "last_edite": "",
-    "st_length_": "2.92727049181e+000",
-    "provincia": "ENTRE RIOS",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO ENTRE RIOS",
-    "created_da": "",
-    "cod_depto": "30021"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 16,
+    "departamento": "URUGUAY",
+    "cabecera": "CONCEPCI\u00d2N DEL URUGUAY",
+    "provincia": "ENTRE RIOS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -72990,29 +72845,19 @@
        -32.01107406599999
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "URUGUAY",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 16,
-    "st_area_sh": "4.98317222861e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CONCEPCI\u00d2N DEL URUGUAY",
-    "last_edite": "",
-    "st_length_": "4.10891396688e+000",
-    "provincia": "ENTRE RIOS",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO ENTRE RIOS",
-    "created_da": "",
-    "cod_depto": "30098"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 17,
+    "departamento": "PARANA",
+    "cabecera": "PARANA",
+    "provincia": "ENTRE RIOS"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -76092,23 +75937,8 @@
        -31.15357952300002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "PARANA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 17,
-    "st_area_sh": "4.90623068231e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "PARANA",
-    "last_edite": "",
-    "st_length_": "3.90672955694e+000",
-    "provincia": "ENTRE RIOS",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO ENTRE RIOS",
-    "created_da": "",
-    "cod_depto": "30084"
+    ],
+    "type": "Polygon"
    }
   }
  ]

@@ -3,8 +3,13 @@
  "features": [
   {
    "type": "Feature",
+   "properties": {
+    "id": 294,
+    "departamento": "MARTIRES",
+    "cabecera": "LAS PLUMAS",
+    "provincia": "CHUBUT"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -1112,29 +1117,19 @@
        -42.88257217400002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "MARTIRES",
-    "fuente1": "IGM",
-    "objectid": 294,
-    "st_area_sh": "1.74923223289e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LAS PLUMAS",
-    "last_edite": "",
-    "st_length_": "6.01002643474e+000",
-    "provincia": "CHUBUT",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "26063"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 295,
+    "departamento": "PASO DE INDIOS",
+    "cabecera": "PASO DE LOS INDIOS",
+    "provincia": "CHUBUT"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -1190,29 +1185,19 @@
        -44.68717956500001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "PASO DE INDIOS",
-    "fuente1": "IGM",
-    "objectid": 295,
-    "st_area_sh": "2.49488585810e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "PASO DE LOS INDIOS",
-    "last_edite": "",
-    "st_length_": "6.79461955466e+000",
-    "provincia": "CHUBUT",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "26070"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 292,
+    "departamento": "LANGUI\u00d1EO",
+    "cabecera": "TECKA",
+    "provincia": "CHUBUT"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -8892,29 +8877,19 @@
        -42.59601974499998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LANGUI\u00d1EO",
-    "fuente1": "IGM",
-    "objectid": 292,
-    "st_area_sh": "1.64097478342e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "TECKA",
-    "last_edite": "",
-    "st_length_": "7.41274872308e+000",
-    "provincia": "CHUBUT",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "26056"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 293,
+    "departamento": "GAIMAN",
+    "cabecera": "GAIMAN",
+    "provincia": "CHUBUT"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -8986,29 +8961,19 @@
        -42.86228561399997
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GAIMAN",
-    "fuente1": "IGM",
-    "objectid": 293,
-    "st_area_sh": "1.28888594514e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "GAIMAN",
-    "last_edite": "",
-    "st_length_": "5.25698236421e+000",
-    "provincia": "CHUBUT",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "26042"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 296,
+    "departamento": "RAWSON",
+    "cabecera": "RAWSON",
+    "provincia": "CHUBUT"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -12908,29 +12873,19 @@
        -42.83876335000002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "RAWSON",
-    "fuente1": "IGM",
-    "objectid": 296,
-    "st_area_sh": "4.58941574562e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "RAWSON",
-    "last_edite": "",
-    "st_length_": "3.62978947662e+000",
-    "provincia": "CHUBUT",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "26077"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 297,
+    "departamento": "TEHUELCHES",
+    "cabecera": "JOSE DE SAN MARTIN",
+    "provincia": "CHUBUT"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -18182,29 +18137,19 @@
        -43.784729003999985
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "TEHUELCHES",
-    "fuente1": "IGM",
-    "objectid": 297,
-    "st_area_sh": "1.64255476088e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "JOSE DE SAN MARTIN",
-    "last_edite": "",
-    "st_length_": "6.82682070177e+000",
-    "provincia": "CHUBUT",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "26098"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 298,
+    "departamento": "ESCALANTE",
+    "cabecera": "COMODORO RIVADAVIA",
+    "provincia": "CHUBUT"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -25816,29 +25761,19 @@
        -45.03516387899998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ESCALANTE",
-    "fuente1": "IGM",
-    "objectid": 298,
-    "st_area_sh": "1.63868714426e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "COMODORO RIVADAVIA",
-    "last_edite": "",
-    "st_length_": "6.97237473006e+000",
-    "provincia": "CHUBUT",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "26021"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 299,
+    "departamento": "FLORENTINO AMEGHINO",
+    "cabecera": "CAMARONES",
+    "provincia": "CHUBUT"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -38442,29 +38377,19 @@
        -43.776184081999986
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "FLORENTINO AMEGHINO",
-    "fuente1": "IGM",
-    "objectid": 299,
-    "st_area_sh": "1.79262898074e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CAMARONES",
-    "last_edite": "",
-    "st_length_": "7.96675374280e+000",
-    "provincia": "CHUBUT",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "26028"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 350,
+    "departamento": "FUTALEUFU",
+    "cabecera": "ESQUEL",
+    "provincia": "CHUBUT"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -52380,29 +52305,19 @@
        -42.48274495700002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "FUTALEUFU",
-    "fuente1": "IGM",
-    "objectid": 350,
-    "st_area_sh": "1.01167112134e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "ESQUEL",
-    "last_edite": "",
-    "st_length_": "6.01218106994e+000",
-    "provincia": "CHUBUT",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "26035"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 373,
+    "departamento": "BIEDMA",
+    "cabecera": "PUERTO MADRYN",
+    "provincia": "CHUBUT"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -65778,29 +65693,19 @@
        -42.190795897999976
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "BIEDMA",
-    "fuente1": "IGM",
-    "objectid": 373,
-    "st_area_sh": "1.41208211382e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "PUERTO MADRYN",
-    "last_edite": "",
-    "st_length_": "9.44489819361e+000",
-    "provincia": "CHUBUT",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "26007"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 374,
+    "departamento": "TELSEN",
+    "cabecera": "TELSEN",
+    "provincia": "CHUBUT"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -65868,29 +65773,19 @@
        -42.88257217400002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "TELSEN",
-    "fuente1": "IGM",
-    "objectid": 374,
-    "st_area_sh": "2.12654196808e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "TELSEN",
-    "last_edite": "",
-    "st_length_": "6.60017493778e+000",
-    "provincia": "CHUBUT",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "26105"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 375,
+    "departamento": "GASTRE",
+    "cabecera": "GASTRE",
+    "provincia": "CHUBUT"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -65998,29 +65893,19 @@
        -42.000058681999974
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GASTRE",
-    "fuente1": "IGM",
-    "objectid": 375,
-    "st_area_sh": "1.75695962885e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "GASTRE",
-    "last_edite": "",
-    "st_length_": "6.11503191622e+000",
-    "provincia": "CHUBUT",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "26049"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 445,
+    "departamento": "RIO SENGUER",
+    "cabecera": "ALTO RIO SENGUER",
+    "provincia": "CHUBUT"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -79592,29 +79477,19 @@
        -44.65383933200002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "RIO SENGUER",
-    "fuente1": "IGM",
-    "objectid": 445,
-    "st_area_sh": "2.62576282385e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "ALTO RIO SENGUER",
-    "last_edite": "",
-    "st_length_": "9.39309276058e+000",
-    "provincia": "CHUBUT",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "26084"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 491,
+    "departamento": "SARMIENTO",
+    "cabecera": "SARMIENTO",
+    "provincia": "CHUBUT"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -79682,29 +79557,19 @@
        -45.999929441999996
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SARMIENTO",
-    "fuente1": "IGM",
-    "objectid": 491,
-    "st_area_sh": "1.67006374851e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SARMIENTO",
-    "last_edite": "",
-    "st_length_": "5.17203805530e+000",
-    "provincia": "CHUBUT",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "26091"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 493,
+    "departamento": "CUSHAMEN",
+    "cabecera": "CUSHAMEN",
+    "provincia": "CHUBUT"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -88312,23 +88177,8 @@
        -42.00016868900002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CUSHAMEN",
-    "fuente1": "IGM",
-    "objectid": 493,
-    "st_area_sh": "1.78062977710e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CUSHAMEN",
-    "last_edite": "",
-    "st_length_": "7.64594457187e+000",
-    "provincia": "CHUBUT",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "26014"
+    ],
+    "type": "Polygon"
    }
   }
  ]

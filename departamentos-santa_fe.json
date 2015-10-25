@@ -3,8 +3,13 @@
  "features": [
   {
    "type": "Feature",
+   "properties": {
+    "id": 402,
+    "departamento": "IRIONDO",
+    "cabecera": "CA\u00a5ADA DE GOMEZ",
+    "provincia": "SANTA FE"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -9044,29 +9049,19 @@
        -33.09290005899999
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "IRIONDO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 402,
-    "st_area_sh": "3.09677206810e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CA\u00a5ADA DE GOMEZ",
-    "last_edite": "",
-    "st_length_": "3.03348776858e+000",
-    "provincia": "SANTA FE",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO SANTA FE",
-    "created_da": "",
-    "cod_depto": "82056"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 403,
+    "departamento": "SAN JUSTO",
+    "cabecera": "SAN JUSTO",
+    "provincia": "SANTA FE"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -23474,29 +23469,19 @@
        -30.129814897000017
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN JUSTO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 403,
-    "st_area_sh": "5.27677265097e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN JUSTO",
-    "last_edite": "",
-    "st_length_": "6.48952207058e+000",
-    "provincia": "SANTA FE",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO SANTA FE",
-    "created_da": "",
-    "cod_depto": "82112"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 404,
+    "departamento": "LAS COLONIAS",
+    "cabecera": "ESPERANZA",
+    "provincia": "SANTA FE"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -35228,29 +35213,19 @@
        -30.80459752600001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LAS COLONIAS",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 404,
-    "st_area_sh": "5.97024873371e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "ESPERANZA",
-    "last_edite": "",
-    "st_length_": "5.73669647247e+000",
-    "provincia": "SANTA FE",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO SANTA FE",
-    "created_da": "",
-    "cod_depto": "82070"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 405,
+    "departamento": "SAN JERONIMO",
+    "cabecera": "CORONDA",
+    "provincia": "SANTA FE"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -37882,29 +37857,19 @@
        -31.82248868800002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN JERONIMO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 405,
-    "st_area_sh": "4.23975989126e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CORONDA",
-    "last_edite": "",
-    "st_length_": "3.17548539564e+000",
-    "provincia": "SANTA FE",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO SANTA FE",
-    "created_da": "",
-    "cod_depto": "82105"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 406,
+    "departamento": "GENERAL LOPEZ",
+    "cabecera": "MELINCUE",
+    "provincia": "SANTA FE"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -38528,29 +38493,19 @@
        -33.40406186000001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GENERAL LOPEZ",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 406,
-    "st_area_sh": "1.11485614110e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "MELINCUE",
-    "last_edite": "",
-    "st_length_": "4.46046207017e+000",
-    "provincia": "SANTA FE",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO SANTA FE",
-    "created_da": "",
-    "cod_depto": "82042"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 407,
+    "departamento": "ROSARIO",
+    "cabecera": "ROSARIO",
+    "provincia": "SANTA FE"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -50722,29 +50677,19 @@
        -32.836605616999975
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ROSARIO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 407,
-    "st_area_sh": "1.81008385660e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "ROSARIO",
-    "last_edite": "",
-    "st_length_": "2.24895089473e+000",
-    "provincia": "SANTA FE",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO SANTA FE",
-    "created_da": "",
-    "cod_depto": "82084"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 408,
+    "departamento": "SAN LORENZO",
+    "cabecera": "CORONDA",
+    "provincia": "SANTA FE"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -60080,29 +60025,19 @@
        -32.455749380999976
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN LORENZO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 408,
-    "st_area_sh": "1.93673420566e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CORONDA",
-    "last_edite": "",
-    "st_length_": "3.13663976735e+000",
-    "provincia": "SANTA FE",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO SANTA FE",
-    "created_da": "",
-    "cod_depto": "82119"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 409,
+    "departamento": "GARAY",
+    "cabecera": "HELVENCIA",
+    "provincia": "SANTA FE"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -63278,29 +63213,19 @@
        -30.665272474000005
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GARAY",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 409,
-    "st_area_sh": "3.81879689461e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "HELVENCIA",
-    "last_edite": "",
-    "st_length_": "3.31047526631e+000",
-    "provincia": "SANTA FE",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO SANTA FE",
-    "created_da": "",
-    "cod_depto": "82035"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 410,
+    "departamento": "SAN JAVIER",
+    "cabecera": "SAN JAVIER",
+    "provincia": "SANTA FE"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -80920,29 +80845,19 @@
        -29.373121583
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN JAVIER",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 410,
-    "st_area_sh": "6.26202470889e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN JAVIER",
-    "last_edite": "",
-    "st_length_": "5.88730003079e+000",
-    "provincia": "SANTA FE",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO SANTA FE",
-    "created_da": "",
-    "cod_depto": "82098"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 411,
+    "departamento": "VERA",
+    "cabecera": "VERA",
+    "provincia": "SANTA FE"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -99774,29 +99689,19 @@
        -30.129814897000017
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "VERA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 411,
-    "st_area_sh": "1.92184506430e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VERA",
-    "last_edite": "",
-    "st_length_": "8.65170140151e+000",
-    "provincia": "SANTA FE",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO SANTA FE",
-    "created_da": "",
-    "cod_depto": "82133"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 412,
+    "departamento": "CASTELLANOS",
+    "cabecera": "RAFAELA",
+    "provincia": "SANTA FE"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -100660,29 +100565,19 @@
        -30.75040123399998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CASTELLANOS",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 412,
-    "st_area_sh": "6.37231384856e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "RAFAELA",
-    "last_edite": "",
-    "st_length_": "3.50165639417e+000",
-    "provincia": "SANTA FE",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO SANTA FE",
-    "created_da": "",
-    "cod_depto": "82021"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 413,
+    "departamento": "BELGRANO",
+    "cabecera": "LAS ROSAS",
+    "provincia": "SANTA FE"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -105242,29 +105137,19 @@
        -33.072934782000004
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "BELGRANO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 413,
-    "st_area_sh": "2.34212116637e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LAS ROSAS",
-    "last_edite": "",
-    "st_length_": "2.59200869550e+000",
-    "provincia": "SANTA FE",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO SANTA FE",
-    "created_da": "",
-    "cod_depto": "82007"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 414,
+    "departamento": "CASEROS",
+    "cabecera": "CASILDA",
+    "provincia": "SANTA FE"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -111176,29 +111061,19 @@
        -33.05446717000001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CASEROS",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 414,
-    "st_area_sh": "3.36108863711e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CASILDA",
-    "last_edite": "",
-    "st_length_": "3.26898217738e+000",
-    "provincia": "SANTA FE",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO SANTA FE",
-    "created_da": "",
-    "cod_depto": "82014"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 415,
+    "departamento": "9 DE JULIO",
+    "cabecera": "TOSTADO",
+    "provincia": "SANTA FE"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -113902,29 +113777,19 @@
        -27.999429627999973
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "9 DE JULIO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 415,
-    "st_area_sh": "1.60526992161e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "TOSTADO",
-    "last_edite": "",
-    "st_length_": "6.07909266366e+000",
-    "provincia": "SANTA FE",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO SANTA FE",
-    "created_da": "",
-    "cod_depto": "82077"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 416,
+    "departamento": "SAN MARTIN",
+    "cabecera": "SASTRE",
+    "provincia": "SANTA FE"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -114780,29 +114645,19 @@
        -31.632508728999994
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN MARTIN",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 416,
-    "st_area_sh": "4.70277810582e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SASTRE",
-    "last_edite": "",
-    "st_length_": "3.04567670794e+000",
-    "provincia": "SANTA FE",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO SANTA FE",
-    "created_da": "",
-    "cod_depto": "82126"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 417,
+    "departamento": "GENERAL OBLIGADO",
+    "cabecera": "RECONQUISTA",
+    "provincia": "SANTA FE"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -123834,29 +123689,19 @@
        -27.999440089000018
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GENERAL OBLIGADO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 417,
-    "st_area_sh": "1.02524289331e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "RECONQUISTA",
-    "last_edite": "",
-    "st_length_": "6.28283419177e+000",
-    "provincia": "SANTA FE",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO SANTA FE",
-    "created_da": "",
-    "cod_depto": "82049"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 418,
+    "departamento": "LA CAPITAL",
+    "cabecera": "SANTA FE",
+    "provincia": "SANTA FE"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -133960,29 +133805,19 @@
        -31.017673774000002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LA CAPITAL",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 418,
-    "st_area_sh": "2.81502454825e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SANTA FE",
-    "last_edite": "",
-    "st_length_": "4.83925620366e+000",
-    "provincia": "SANTA FE",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO SANTA FE",
-    "created_da": "",
-    "cod_depto": "82063"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 419,
+    "departamento": "CONSTITUCION",
+    "cabecera": "VILLA CONSTITUCION",
+    "provincia": "SANTA FE"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -153262,29 +153097,19 @@
        -33.182039393000025
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CONSTITUCION",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 419,
-    "st_area_sh": "3.11928159061e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA CONSTITUCION",
-    "last_edite": "",
-    "st_length_": "3.85986055773e+000",
-    "provincia": "SANTA FE",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO SANTA FE",
-    "created_da": "",
-    "cod_depto": "82028"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 492,
+    "departamento": "SAN CRISTOBAL",
+    "cabecera": "SAN CRISTOBAL",
+    "provincia": "SANTA FE"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -164032,23 +163857,8 @@
        -29.63752516599999
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN CRISTOBAL",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 492,
-    "st_area_sh": "1.37221892346e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN CRISTOBAL",
-    "last_edite": "",
-    "st_length_": "7.28136991892e+000",
-    "provincia": "SANTA FE",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO SANTA FE",
-    "created_da": "",
-    "cod_depto": "82091"
+    ],
+    "type": "Polygon"
    }
   }
  ]

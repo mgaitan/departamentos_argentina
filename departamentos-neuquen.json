@@ -3,8 +3,13 @@
  "features": [
   {
    "type": "Feature",
+   "properties": {
+    "id": 459,
+    "departamento": "HUILICHES",
+    "cabecera": "JUNIN DE LOS ANDES",
+    "provincia": "NEUQUEN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -15796,29 +15801,19 @@
        -39.44899742199999
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "HUILICHES",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 459,
-    "st_area_sh": "4.23499464968e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "JUNIN DE LOS ANDES",
-    "last_edite": "",
-    "st_length_": "3.96228766459e+000",
-    "provincia": "NEUQUEN",
-    "fec_actual": "",
-    "fuente": "CATASTRO DE NEUQUEN",
-    "created_da": "",
-    "cod_depto": "58049"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 460,
+    "departamento": "CATAN LIL",
+    "cabecera": "LAS COLORADAS",
+    "provincia": "NEUQUEN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -25674,29 +25669,19 @@
        -39.013838459
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CATAN LIL",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 460,
-    "st_area_sh": "5.66148486537e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LAS COLORADAS",
-    "last_edite": "",
-    "st_length_": "4.42910582066e+000",
-    "provincia": "NEUQUEN",
-    "fec_actual": "",
-    "fuente": "CATASTRO DE NEUQUEN",
-    "created_da": "",
-    "cod_depto": "58021"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 456,
+    "departamento": "LOS LAGOS",
+    "cabecera": "VILLA LA ANGOSTURA",
+    "provincia": "NEUQUEN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -41632,29 +41617,19 @@
        -40.40625935100002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LOS LAGOS",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 456,
-    "st_area_sh": "4.49541380909e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA LA ANGOSTURA",
-    "last_edite": "",
-    "st_length_": "3.86603136873e+000",
-    "provincia": "NEUQUEN",
-    "fec_actual": "",
-    "fuente": "CATASTRO DE NEUQUEN",
-    "created_da": "",
-    "cod_depto": "58070"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 457,
+    "departamento": "LACAR",
+    "cabecera": "SAN MARTIN DE LOS ANDES",
+    "provincia": "NEUQUEN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -53946,29 +53921,19 @@
        -40.03038403300002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LACAR",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 457,
-    "st_area_sh": "5.26798949955e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN MARTIN DE LOS ANDES",
-    "last_edite": "",
-    "st_length_": "4.13528239224e+000",
-    "provincia": "NEUQUEN",
-    "fec_actual": "",
-    "fuente": "CATASTRO DE NEUQUEN",
-    "created_da": "",
-    "cod_depto": "58056"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 458,
+    "departamento": "COLLON CURA",
+    "cabecera": "PIEDRA DEL AGUILA",
+    "provincia": "NEUQUEN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -59648,29 +59613,19 @@
        -39.65013021200002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "COLLON CURA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 458,
-    "st_area_sh": "6.08748381598e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "PIEDRA DEL AGUILA",
-    "last_edite": "",
-    "st_length_": "4.34270528622e+000",
-    "provincia": "NEUQUEN",
-    "fec_actual": "",
-    "fuente": "CATASTRO DE NEUQUEN",
-    "created_da": "",
-    "cod_depto": "58028"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 461,
+    "departamento": "PICUN LEUFU",
+    "cabecera": "PICUN LEUFU",
+    "provincia": "NEUQUEN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -61134,29 +61089,19 @@
        -39.095474421999995
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "PICUN LEUFU",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 461,
-    "st_area_sh": "4.80558908045e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "PICUN LEUFU",
-    "last_edite": "",
-    "st_length_": "3.14421100837e+000",
-    "provincia": "NEUQUEN",
-    "fec_actual": "",
-    "fuente": "CATASTRO DE NEUQUEN",
-    "created_da": "",
-    "cod_depto": "58098"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 462,
+    "departamento": "ALUMINE",
+    "cabecera": "ALUMINE",
+    "provincia": "NEUQUEN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -76160,29 +76105,19 @@
        -38.72150920299998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ALUMINE",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 462,
-    "st_area_sh": "4.93714036013e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "ALUMINE",
-    "last_edite": "",
-    "st_length_": "3.87066459490e+000",
-    "provincia": "NEUQUEN",
-    "fec_actual": "",
-    "fuente": "CATASTRO DE NEUQUEN",
-    "created_da": "",
-    "cod_depto": "58007"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 463,
+    "departamento": "ZAPALA",
+    "cabecera": "ZAPALA",
+    "provincia": "NEUQUEN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -90894,29 +90829,19 @@
        -38.46924699200002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ZAPALA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 463,
-    "st_area_sh": "5.59353435852e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "ZAPALA",
-    "last_edite": "",
-    "st_length_": "4.23494189717e+000",
-    "provincia": "NEUQUEN",
-    "fec_actual": "",
-    "fuente": "CATASTRO DE NEUQUEN",
-    "created_da": "",
-    "cod_depto": "58112"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 464,
+    "departamento": "CONFLUENCIA",
+    "cabecera": "NEUQUEN",
+    "provincia": "NEUQUEN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -101324,29 +101249,19 @@
        -38.36927726099998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CONFLUENCIA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 464,
-    "st_area_sh": "7.48667905266e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "NEUQUEN",
-    "last_edite": "",
-    "st_length_": "4.42747131436e+000",
-    "provincia": "NEUQUEN",
-    "fec_actual": "",
-    "fuente": "CATASTRO DE NEUQUEN",
-    "created_da": "",
-    "cod_depto": "58035"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 465,
+    "departamento": "PICUNCHES",
+    "cabecera": "LAS LAJAS",
+    "provincia": "NEUQUEN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -119582,29 +119497,19 @@
        -38.11301070500002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "PICUNCHES",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 465,
-    "st_area_sh": "6.17433019907e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LAS LAJAS",
-    "last_edite": "",
-    "st_length_": "4.98401494938e+000",
-    "provincia": "NEUQUEN",
-    "fec_actual": "",
-    "fuente": "CATASTRO DE NEUQUEN",
-    "created_da": "",
-    "cod_depto": "58105"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 466,
+    "departamento": "A\u00d1ELO",
+    "cabecera": "A\u00a5ELO",
+    "provincia": "NEUQUEN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -129432,29 +129337,19 @@
        -37.704572713999994
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "A\u00d1ELO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 466,
-    "st_area_sh": "1.24360096133e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "A\u00a5ELO",
-    "last_edite": "",
-    "st_length_": "6.03739126300e+000",
-    "provincia": "NEUQUEN",
-    "fec_actual": "",
-    "fuente": "CATASTRO DE NEUQUEN",
-    "created_da": "",
-    "cod_depto": "58014"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 467,
+    "departamento": "LONCOPUE",
+    "cabecera": "LONCOPUE",
+    "provincia": "NEUQUEN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -139958,29 +139853,19 @@
        -37.656566184999974
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LONCOPUE",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 467,
-    "st_area_sh": "5.65146593917e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LONCOPUE",
-    "last_edite": "",
-    "st_length_": "4.68136843469e+000",
-    "provincia": "NEUQUEN",
-    "fec_actual": "",
-    "fuente": "CATASTRO DE NEUQUEN",
-    "created_da": "",
-    "cod_depto": "58063"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 468,
+    "departamento": "\u00d1ORQUIN",
+    "cabecera": "EL HUECU",
+    "provincia": "NEUQUEN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -152404,29 +152289,19 @@
        -37.25061416599999
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "\u00d1ORQUIN",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 468,
-    "st_area_sh": "5.67122981030e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "EL HUECU",
-    "last_edite": "",
-    "st_length_": "4.07037439774e+000",
-    "provincia": "NEUQUEN",
-    "fec_actual": "",
-    "fuente": "CATASTRO DE NEUQUEN",
-    "created_da": "",
-    "cod_depto": "58084"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 469,
+    "departamento": "PEHUENCHES",
+    "cabecera": "RINCON DE LOS SAUCES",
+    "provincia": "NEUQUEN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -160782,29 +160657,19 @@
        -36.659669028999986
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "PEHUENCHES",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 469,
-    "st_area_sh": "8.48735773338e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "RINCON DE LOS SAUCES",
-    "last_edite": "",
-    "st_length_": "5.73621864929e+000",
-    "provincia": "NEUQUEN",
-    "fec_actual": "",
-    "fuente": "CATASTRO DE NEUQUEN",
-    "created_da": "",
-    "cod_depto": "58091"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 470,
+    "departamento": "MINAS",
+    "cabecera": "ANDACOLLO",
+    "provincia": "NEUQUEN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -176908,29 +176773,19 @@
        -36.139636052000014
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "MINAS",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 470,
-    "st_area_sh": "6.11835317210e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "ANDACOLLO",
-    "last_edite": "",
-    "st_length_": "4.87572941657e+000",
-    "provincia": "NEUQUEN",
-    "fec_actual": "",
-    "fuente": "CATASTRO DE NEUQUEN",
-    "created_da": "",
-    "cod_depto": "58077"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 471,
+    "departamento": "CHOS MALAL",
+    "cabecera": "CHOS MALAL",
+    "provincia": "NEUQUEN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -182618,23 +182473,8 @@
        -36.15156879599999
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CHOS MALAL",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 471,
-    "st_area_sh": "4.62593870858e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CHOS MALAL",
-    "last_edite": "",
-    "st_length_": "3.66049700469e+000",
-    "provincia": "NEUQUEN",
-    "fec_actual": "",
-    "fuente": "CATASTRO DE NEUQUEN",
-    "created_da": "",
-    "cod_depto": "58042"
+    ],
+    "type": "Polygon"
    }
   }
  ]

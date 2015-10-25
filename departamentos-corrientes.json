@@ -3,8 +3,13 @@
  "features": [
   {
    "type": "Feature",
+   "properties": {
+    "id": 33,
+    "departamento": "CAPITAL",
+    "cabecera": "CORRIENTES",
+    "provincia": "CORRIENTES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -360,29 +365,19 @@
        -27.359401307999974
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CAPITAL",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 33,
-    "st_area_sh": "4.14445378450e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CORRIENTES",
-    "last_edite": "",
-    "st_length_": "9.02014870609e-001",
-    "provincia": "CORRIENTES",
-    "fec_actual": "MAR 2006",
-    "fuente": "CATASTRO CORRIENTES",
-    "created_da": "",
-    "cod_depto": "18021"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 34,
+    "departamento": "ITATI",
+    "cabecera": "ITATI",
+    "provincia": "CORRIENTES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -1014,29 +1009,19 @@
        -27.274986108000007
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ITATI",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 34,
-    "st_area_sh": "6.04171499071e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "ITATI",
-    "last_edite": "",
-    "st_length_": "1.29773059064e+000",
-    "provincia": "CORRIENTES",
-    "fec_actual": "MAR 2006",
-    "fuente": "CATASTRO CORRIENTES",
-    "created_da": "",
-    "cod_depto": "18077"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 35,
+    "departamento": "BERON DE ASTRADA",
+    "cabecera": "BERON DE ASTRADA",
+    "provincia": "CORRIENTES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -1592,29 +1577,19 @@
        -27.340811484000028
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "BERON DE ASTRADA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 35,
-    "st_area_sh": "5.25719366502e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "BERON DE ASTRADA",
-    "last_edite": "",
-    "st_length_": "1.20702830933e+000",
-    "provincia": "CORRIENTES",
-    "fec_actual": "MAR 2006",
-    "fuente": "CATASTRO CORRIENTES",
-    "created_da": "",
-    "cod_depto": "18014"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 36,
+    "departamento": "GENERAL PAZ",
+    "cabecera": "NUESTRA SE\u00a5ORA DEL ROSARIO DE CAA CATI",
+    "provincia": "CORRIENTES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -2150,29 +2125,19 @@
        -27.418890583000007
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GENERAL PAZ",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 36,
-    "st_area_sh": "2.41549302255e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "NUESTRA SE\u00a5ORA DEL ROSARIO DE CAA CATI",
-    "last_edite": "",
-    "st_length_": "2.81720377553e+000",
-    "provincia": "CORRIENTES",
-    "fec_actual": "MAR 2006",
-    "fuente": "CATASTRO CORRIENTES",
-    "created_da": "",
-    "cod_depto": "18063"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 27,
+    "departamento": "MERCEDES",
+    "cabecera": "MERCEDES",
+    "provincia": "CORRIENTES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -3028,29 +2993,19 @@
        -29.001405707000004
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "MERCEDES",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 27,
-    "st_area_sh": "9.44300458476e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "MERCEDES",
-    "last_edite": "",
-    "st_length_": "4.43075672716e+000",
-    "provincia": "CORRIENTES",
-    "fec_actual": "MAR 2006",
-    "fuente": "CATASTRO CORRIENTES",
-    "created_da": "",
-    "cod_depto": "18105"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 28,
+    "departamento": "CONCEPCION",
+    "cabecera": "CONCEPCION",
+    "provincia": "CORRIENTES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -3594,29 +3549,19 @@
        -27.915429601000028
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CONCEPCION",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 28,
-    "st_area_sh": "5.15536207897e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CONCEPCION",
-    "last_edite": "",
-    "st_length_": "3.26659351367e+000",
-    "provincia": "CORRIENTES",
-    "fec_actual": "MAR 2006",
-    "fuente": "CATASTRO CORRIENTES",
-    "created_da": "",
-    "cod_depto": "18028"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 29,
+    "departamento": "SAN ROQUE",
+    "cabecera": "SAN ROQUE",
+    "provincia": "CORRIENTES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -4264,29 +4209,19 @@
        -28.823476298000003
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN ROQUE",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 29,
-    "st_area_sh": "2.24684301590e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN ROQUE",
-    "last_edite": "",
-    "st_length_": "2.58053704111e+000",
-    "provincia": "CORRIENTES",
-    "fec_actual": "MAR 2006",
-    "fuente": "CATASTRO CORRIENTES",
-    "created_da": "",
-    "cod_depto": "18161"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 30,
+    "departamento": "SALADAS",
+    "cabecera": "SALADAS",
+    "provincia": "CORRIENTES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -4734,29 +4669,19 @@
        -27.96480116700002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SALADAS",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 30,
-    "st_area_sh": "1.88197886243e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SALADAS",
-    "last_edite": "",
-    "st_length_": "2.11806098634e+000",
-    "provincia": "CORRIENTES",
-    "fec_actual": "MAR 2006",
-    "fuente": "CATASTRO CORRIENTES",
-    "created_da": "",
-    "cod_depto": "18126"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 31,
+    "departamento": "MBURUCUYA",
+    "cabecera": "MBURUCUYA",
+    "provincia": "CORRIENTES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -5080,29 +5005,19 @@
        -27.964386101000002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "MBURUCUYA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 31,
-    "st_area_sh": "8.40472786738e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "MBURUCUYA",
-    "last_edite": "",
-    "st_length_": "1.50882464541e+000",
-    "provincia": "CORRIENTES",
-    "fec_actual": "MAR 2006",
-    "fuente": "CATASTRO CORRIENTES",
-    "created_da": "",
-    "cod_depto": "18098"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 32,
+    "departamento": "SAN LUIS DEL PALMAR",
+    "cabecera": "SAN LUIS DEL PALMAR",
+    "provincia": "CORRIENTES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -5514,29 +5429,19 @@
        -27.36474178100002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN LUIS DEL PALMAR",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 32,
-    "st_area_sh": "2.27114103349e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN LUIS DEL PALMAR",
-    "last_edite": "",
-    "st_length_": "2.56603798927e+000",
-    "provincia": "CORRIENTES",
-    "fec_actual": "MAR 2006",
-    "fuente": "CATASTRO CORRIENTES",
-    "created_da": "",
-    "cod_depto": "18140"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 37,
+    "departamento": "SANTO TOME",
+    "cabecera": "SANTO TOME",
+    "provincia": "CORRIENTES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -9208,29 +9113,19 @@
        -27.871636215000024
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SANTO TOME",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 37,
-    "st_area_sh": "6.18769379917e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SANTO TOME",
-    "last_edite": "",
-    "st_length_": "4.38125579446e+000",
-    "provincia": "CORRIENTES",
-    "fec_actual": "MAR 2006",
-    "fuente": "CATASTRO CORRIENTES",
-    "created_da": "",
-    "cod_depto": "18168"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 38,
+    "departamento": "GENERAL ALVEAR",
+    "cabecera": "GENERAL ALVEAR",
+    "provincia": "CORRIENTES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -10082,29 +9977,19 @@
        -28.423091520000014
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GENERAL ALVEAR",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 38,
-    "st_area_sh": "1.73837574761e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "GENERAL ALVEAR",
-    "last_edite": "",
-    "st_length_": "1.87014556403e+000",
-    "provincia": "CORRIENTES",
-    "fec_actual": "MAR 2006",
-    "fuente": "CATASTRO CORRIENTES",
-    "created_da": "",
-    "cod_depto": "18056"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 39,
+    "departamento": "SAN MARTIN",
+    "cabecera": "LA CRUZ",
+    "provincia": "CORRIENTES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -11432,29 +11317,19 @@
        -28.205727754999998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN MARTIN",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 39,
-    "st_area_sh": "6.22398233679e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LA CRUZ",
-    "last_edite": "",
-    "st_length_": "4.06874664807e+000",
-    "provincia": "CORRIENTES",
-    "fec_actual": "MAR 2006",
-    "fuente": "CATASTRO CORRIENTES",
-    "created_da": "",
-    "cod_depto": "18147"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 40,
+    "departamento": "PASO DE LOS LIBRES",
+    "cabecera": "PASO DE LOS LIBRES",
+    "provincia": "CORRIENTES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -12830,29 +12705,19 @@
        -29.198922951999975
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "PASO DE LOS LIBRES",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 40,
-    "st_area_sh": "4.34749635255e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "PASO DE LOS LIBRES",
-    "last_edite": "",
-    "st_length_": "3.40495110111e+000",
-    "provincia": "CORRIENTES",
-    "fec_actual": "MAR 2006",
-    "fuente": "CATASTRO CORRIENTES",
-    "created_da": "",
-    "cod_depto": "18119"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 41,
+    "departamento": "MONTE CASEROS",
+    "cabecera": "MONTE CASEROS",
+    "provincia": "CORRIENTES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -16884,29 +16749,19 @@
        -29.983720518999974
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "MONTE CASEROS",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 41,
-    "st_area_sh": "2.52165823690e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "MONTE CASEROS",
-    "last_edite": "",
-    "st_length_": "2.86685963656e+000",
-    "provincia": "CORRIENTES",
-    "fec_actual": "MAR 2006",
-    "fuente": "CATASTRO CORRIENTES",
-    "created_da": "",
-    "cod_depto": "18112"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 42,
+    "departamento": "CURUZU CUATIA",
+    "cabecera": "CURUZU CUATIA",
+    "provincia": "CORRIENTES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -20606,29 +20461,19 @@
        -29.426660665999975
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CURUZU CUATIA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 42,
-    "st_area_sh": "8.00068453618e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CURUZU CUATIA",
-    "last_edite": "",
-    "st_length_": "5.05121431750e+000",
-    "provincia": "CORRIENTES",
-    "fec_actual": "MAR 2006",
-    "fuente": "CATASTRO CORRIENTES",
-    "created_da": "",
-    "cod_depto": "18035"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 43,
+    "departamento": "SAUCE",
+    "cabecera": "SAUCE",
+    "provincia": "CORRIENTES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -26140,29 +25985,19 @@
        -29.680584468000006
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAUCE",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 43,
-    "st_area_sh": "2.23926242950e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAUCE",
-    "last_edite": "",
-    "st_length_": "2.50986400705e+000",
-    "provincia": "CORRIENTES",
-    "fec_actual": "MAR 2006",
-    "fuente": "CATASTRO CORRIENTES",
-    "created_da": "",
-    "cod_depto": "18175"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 44,
+    "departamento": "ESQUINA",
+    "cabecera": "ESQUINA",
+    "provincia": "CORRIENTES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -33470,29 +33305,19 @@
        -30.227354038999977
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ESQUINA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 44,
-    "st_area_sh": "3.89041717130e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "ESQUINA",
-    "last_edite": "",
-    "st_length_": "3.69485583903e+000",
-    "provincia": "CORRIENTES",
-    "fec_actual": "MAR 2006",
-    "fuente": "CATASTRO CORRIENTES",
-    "created_da": "",
-    "cod_depto": "18049"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 45,
+    "departamento": "ITUZAINGO",
+    "cabecera": "ITUZAINGO",
+    "provincia": "CORRIENTES"
+   },
    "geometry": {
-    "type": "MultiPolygon",
     "coordinates": [
      [
       [
@@ -44598,29 +44423,19 @@
        ]
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ITUZAINGO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 45,
-    "st_area_sh": "8.50194713087e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "ITUZAINGO",
-    "last_edite": "",
-    "st_length_": "8.09017498066e+000",
-    "provincia": "CORRIENTES",
-    "fec_actual": "MAR 2006",
-    "fuente": "CATASTRO CORRIENTES",
-    "created_da": "",
-    "cod_depto": "18084"
+    ],
+    "type": "MultiPolygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 46,
+    "departamento": "SAN MIGUEL",
+    "cabecera": "SAN MIGUEL",
+    "provincia": "CORRIENTES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -45288,29 +45103,19 @@
        -27.48196752199999
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN MIGUEL",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 46,
-    "st_area_sh": "2.73017483388e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN MIGUEL",
-    "last_edite": "",
-    "st_length_": "2.64643622158e+000",
-    "provincia": "CORRIENTES",
-    "fec_actual": "MAR 2006",
-    "fuente": "CATASTRO CORRIENTES",
-    "created_da": "",
-    "cod_depto": "18154"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 47,
+    "departamento": "GOYA",
+    "cabecera": "GOYA",
+    "provincia": "CORRIENTES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -46670,29 +46475,19 @@
        -29.037281224000026
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GOYA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 47,
-    "st_area_sh": "4.87725061995e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "GOYA",
-    "last_edite": "",
-    "st_length_": "3.25512224717e+000",
-    "provincia": "CORRIENTES",
-    "fec_actual": "MAR 2006",
-    "fuente": "CATASTRO CORRIENTES",
-    "created_da": "",
-    "cod_depto": "18070"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 48,
+    "departamento": "LAVALLE",
+    "cabecera": "LAVALLE",
+    "provincia": "CORRIENTES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -47616,29 +47411,19 @@
        -28.736755297000002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LAVALLE",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 48,
-    "st_area_sh": "1.53639051052e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LAVALLE",
-    "last_edite": "",
-    "st_length_": "2.07637230839e+000",
-    "provincia": "CORRIENTES",
-    "fec_actual": "MAR 2006",
-    "fuente": "CATASTRO CORRIENTES",
-    "created_da": "",
-    "cod_depto": "18091"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 49,
+    "departamento": "BELLA VISTA",
+    "cabecera": "BELLA VISTA",
+    "provincia": "CORRIENTES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -48402,29 +48187,19 @@
        -28.459801871000025
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "BELLA VISTA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 49,
-    "st_area_sh": "1.52436677690e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "BELLA VISTA",
-    "last_edite": "",
-    "st_length_": "1.89257904596e+000",
-    "provincia": "CORRIENTES",
-    "fec_actual": "MAR 2006",
-    "fuente": "CATASTRO CORRIENTES",
-    "created_da": "",
-    "cod_depto": "18007"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 50,
+    "departamento": "EMPEDRADO",
+    "cabecera": "EMPEDRADO",
+    "provincia": "CORRIENTES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -49204,29 +48979,19 @@
        -27.53949466199998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "EMPEDRADO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 50,
-    "st_area_sh": "1.90275632929e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "EMPEDRADO",
-    "last_edite": "",
-    "st_length_": "2.65205665052e+000",
-    "provincia": "CORRIENTES",
-    "fec_actual": "MAR 2006",
-    "fuente": "CATASTRO CORRIENTES",
-    "created_da": "",
-    "cod_depto": "18042"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 448,
+    "departamento": "SAN COSME",
+    "cabecera": "SAN COSME",
+    "provincia": "CORRIENTES"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -49702,23 +49467,8 @@
        -27.289453315000003
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN COSME",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 448,
-    "st_area_sh": "2.77227727492e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN COSME",
-    "last_edite": "",
-    "st_length_": "8.76293641557e-001",
-    "provincia": "CORRIENTES",
-    "fec_actual": "MAR 2006",
-    "fuente": "CATASTRO CORRIENTES",
-    "created_da": "",
-    "cod_depto": "18133"
+    ],
+    "type": "Polygon"
    }
   }
  ]

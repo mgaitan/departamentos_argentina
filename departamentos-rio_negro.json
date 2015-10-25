@@ -3,8 +3,13 @@
  "features": [
   {
    "type": "Feature",
+   "properties": {
+    "id": 291,
+    "departamento": "CONESA",
+    "cabecera": "GENERAL CONESA",
+    "provincia": "RIO NEGRO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -332,29 +337,19 @@
        -39.87150771
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CONESA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 291,
-    "st_area_sh": "1.03492355595e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "GENERAL CONESA",
-    "last_edite": "",
-    "st_length_": "4.99863859081e+000",
-    "provincia": "RIO NEGRO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO RIO NEGRO",
-    "created_da": "",
-    "cod_depto": "62028"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 368,
+    "departamento": "VALCHETA",
+    "cabecera": "VALCHETA",
+    "provincia": "RIO NEGRO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -450,29 +445,19 @@
        -41.999581474000024
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "VALCHETA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 368,
-    "st_area_sh": "2.26122871853e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VALCHETA",
-    "last_edite": "",
-    "st_length_": "6.38069593048e+000",
-    "provincia": "RIO NEGRO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO RIO NEGRO",
-    "created_da": "",
-    "cod_depto": "62084"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 369,
+    "departamento": "SAN ANTONIO",
+    "cabecera": "SAN ANTONIO OESTE",
+    "provincia": "RIO NEGRO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -7480,29 +7465,19 @@
        -39.998471368000025
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN ANTONIO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 369,
-    "st_area_sh": "1.53339134875e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN ANTONIO OESTE",
-    "last_edite": "",
-    "st_length_": "8.01226261878e+000",
-    "provincia": "RIO NEGRO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO RIO NEGRO",
-    "created_da": "",
-    "cod_depto": "62077"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 370,
+    "departamento": "9 DE JULIO",
+    "cabecera": "SIERRA COLORADA",
+    "provincia": "RIO NEGRO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -7590,29 +7565,19 @@
        -41.99988746499997
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "9 DE JULIO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 370,
-    "st_area_sh": "2.57297048368e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SIERRA COLORADA",
-    "last_edite": "",
-    "st_length_": "6.87730730975e+000",
-    "provincia": "RIO NEGRO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO RIO NEGRO",
-    "created_da": "",
-    "cod_depto": "62049"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 371,
+    "departamento": "\u00d1ORQUINCO",
+    "cabecera": "NORQUINCO",
+    "provincia": "RIO NEGRO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -7712,29 +7677,19 @@
        -41.505187466999985
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "\u00d1ORQUINCO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 371,
-    "st_area_sh": "8.92194418527e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "NORQUINCO",
-    "last_edite": "",
-    "st_length_": "4.61123829818e+000",
-    "provincia": "RIO NEGRO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO RIO NEGRO",
-    "created_da": "",
-    "cod_depto": "62056"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 372,
+    "departamento": "25 DE MAYO",
+    "cabecera": "MAQUINCHAO",
+    "provincia": "RIO NEGRO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -7842,29 +7797,19 @@
        -41.99967381699997
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "25 DE MAYO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 372,
-    "st_area_sh": "2.96456438555e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "MAQUINCHAO",
-    "last_edite": "",
-    "st_length_": "7.52549869413e+000",
-    "provincia": "RIO NEGRO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO RIO NEGRO",
-    "created_da": "",
-    "cod_depto": "62091"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 376,
+    "departamento": "EL CUY",
+    "cabecera": "EL CUY",
+    "provincia": "RIO NEGRO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -17224,29 +17169,19 @@
        -38.97060022300002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "EL CUY",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 376,
-    "st_area_sh": "2.25552390751e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "EL CUY",
-    "last_edite": "",
-    "st_length_": "8.65551675206e+000",
-    "provincia": "RIO NEGRO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO RIO NEGRO",
-    "created_da": "",
-    "cod_depto": "62035"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 377,
+    "departamento": "PILCANIYEU",
+    "cabecera": "PILCANIYEU",
+    "provincia": "RIO NEGRO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -21686,29 +21621,19 @@
        -39.876370947
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "PILCANIYEU",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 377,
-    "st_area_sh": "1.17349547261e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "PILCANIYEU",
-    "last_edite": "",
-    "st_length_": "6.38715853035e+000",
-    "provincia": "RIO NEGRO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO RIO NEGRO",
-    "created_da": "",
-    "cod_depto": "62070"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 442,
+    "departamento": "PICHI MAHUIDA",
+    "cabecera": "RIO COLORADO",
+    "provincia": "RIO NEGRO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -26624,29 +26549,19 @@
        -39.32913811999998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "PICHI MAHUIDA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 442,
-    "st_area_sh": "1.63873509410e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "RIO COLORADO",
-    "last_edite": "",
-    "st_length_": "5.99277089419e+000",
-    "provincia": "RIO NEGRO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO RIO NEGRO",
-    "created_da": "",
-    "cod_depto": "62063"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 443,
+    "departamento": "ADOLFO ALSINA",
+    "cabecera": "VIEDMA",
+    "provincia": "RIO NEGRO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -31306,29 +31221,19 @@
        -40.783769656000004
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ADOLFO ALSINA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 443,
-    "st_area_sh": "9.54802263194e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VIEDMA",
-    "last_edite": "",
-    "st_length_": "4.86984061418e+000",
-    "provincia": "RIO NEGRO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO RIO NEGRO",
-    "created_da": "",
-    "cod_depto": "62007"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 446,
+    "departamento": "BARILOCHE",
+    "cabecera": "SAN CARLOS DE BARILOCHE",
+    "provincia": "RIO NEGRO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -42428,29 +42333,19 @@
        -41.020507812999995
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "BARILOCHE",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 446,
-    "st_area_sh": "5.84727528741e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN CARLOS DE BARILOCHE",
-    "last_edite": "",
-    "st_length_": "4.22938422343e+000",
-    "provincia": "RIO NEGRO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO RIO NEGRO",
-    "created_da": "",
-    "cod_depto": "62021"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 440,
+    "departamento": "AVELLANEDA",
+    "cabecera": "CHOELE CHOEL",
+    "provincia": "RIO NEGRO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -46866,29 +46761,19 @@
        -38.82674725800001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "AVELLANEDA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 440,
-    "st_area_sh": "2.07565123606e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CHOELE CHOEL",
-    "last_edite": "",
-    "st_length_": "8.22707849077e+000",
-    "provincia": "RIO NEGRO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO RIO NEGRO",
-    "created_da": "",
-    "cod_depto": "62014"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 441,
+    "departamento": "GENERAL ROCA",
+    "cabecera": "GENERAL ROCA",
+    "provincia": "RIO NEGRO"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -61016,23 +60901,8 @@
        -37.58496004099999
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "GENERAL ROCA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 441,
-    "st_area_sh": "1.50808882355e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "GENERAL ROCA",
-    "last_edite": "",
-    "st_length_": "6.74588698277e+000",
-    "provincia": "RIO NEGRO",
-    "fec_actual": "JUN 2007",
-    "fuente": "CATASTRO RIO NEGRO",
-    "created_da": "",
-    "cod_depto": "62042"
+    ],
+    "type": "Polygon"
    }
   }
  ]

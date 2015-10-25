@@ -3,8 +3,13 @@
  "features": [
   {
    "type": "Feature",
+   "properties": {
+    "id": 194,
+    "departamento": "RIVADAVIA",
+    "cabecera": "RIVADAVIA",
+    "provincia": "SAN JUAN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -440,29 +445,19 @@
        -31.498735427999975
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "RIVADAVIA",
-    "fuente1": "IGM",
-    "objectid": 194,
-    "st_area_sh": "1.11507238617e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "RIVADAVIA",
-    "last_edite": "",
-    "st_length_": "5.66012390785e-001",
-    "provincia": "SAN JUAN",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "70084"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 195,
+    "departamento": "SANTA LUCIA",
+    "cabecera": "SANTA LUCIA",
+    "provincia": "SAN JUAN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -742,29 +737,19 @@
        -31.49185180699999
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SANTA LUCIA",
-    "fuente1": "IGM",
-    "objectid": 195,
-    "st_area_sh": "5.22999371623e-003",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SANTA LUCIA",
-    "last_edite": "",
-    "st_length_": "3.01624733084e-001",
-    "provincia": "SAN JUAN",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "70098"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 196,
+    "departamento": "CAPITAL",
+    "cabecera": "SAN JUAN",
+    "provincia": "SAN JUAN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -936,29 +921,19 @@
        -31.540554047
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CAPITAL",
-    "fuente1": "IGM",
-    "objectid": 196,
-    "st_area_sh": "2.65301930233e-003",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN JUAN",
-    "last_edite": "",
-    "st_length_": "2.02449312150e-001",
-    "provincia": "SAN JUAN",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "70028"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 192,
+    "departamento": "ZONDA",
+    "cabecera": "VILLA BASILIO NIEVAS",
+    "provincia": "SAN JUAN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -2042,29 +2017,19 @@
        -31.476278304999994
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ZONDA",
-    "fuente1": "IGM",
-    "objectid": 192,
-    "st_area_sh": "2.33743123575e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA BASILIO NIEVAS",
-    "last_edite": "",
-    "st_length_": "2.39771804724e+000",
-    "provincia": "SAN JUAN",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "70133"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 189,
+    "departamento": "ULLUM",
+    "cabecera": "VILLA IBA\u00a5EZ",
+    "provincia": "SAN JUAN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -3812,29 +3777,19 @@
        -30.545833587999994
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ULLUM",
-    "fuente1": "IGM",
-    "objectid": 189,
-    "st_area_sh": "4.22862527697e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA IBA\u00a5EZ",
-    "last_edite": "",
-    "st_length_": "3.10267420542e+000",
-    "provincia": "SAN JUAN",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "70112"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 190,
+    "departamento": "ANGACO",
+    "cabecera": "EL SALVADOR",
+    "provincia": "SAN JUAN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -4498,29 +4453,19 @@
        -31.450374603
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ANGACO",
-    "fuente1": "IGM",
-    "objectid": 190,
-    "st_area_sh": "2.50512948090e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "EL SALVADOR",
-    "last_edite": "",
-    "st_length_": "2.13818781214e+000",
-    "provincia": "SAN JUAN",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "70014"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 191,
+    "departamento": "ALBARDON",
+    "cabecera": "VILLA GENERAL SAN MARTIN",
+    "provincia": "SAN JUAN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -5388,29 +5333,19 @@
        -31.451566695999986
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ALBARDON",
-    "fuente1": "IGM",
-    "objectid": 191,
-    "st_area_sh": "9.18010517102e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA GENERAL SAN MARTIN",
-    "last_edite": "",
-    "st_length_": "1.51436315624e+000",
-    "provincia": "SAN JUAN",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "70007"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 193,
+    "departamento": "CHIMBAS",
+    "cabecera": "CHIMBAS",
+    "provincia": "SAN JUAN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -5762,29 +5697,19 @@
        -31.451566695999986
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CHIMBAS",
-    "fuente1": "IGM",
-    "objectid": 193,
-    "st_area_sh": "5.29471317120e-003",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CHIMBAS",
-    "last_edite": "",
-    "st_length_": "4.15506375105e-001",
-    "provincia": "SAN JUAN",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "70042"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 197,
+    "departamento": "9 DE JULIO",
+    "cabecera": "VILLA NUEVE DE JULIO",
+    "provincia": "SAN JUAN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -6340,29 +6265,19 @@
        -31.565252304000012
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "9 DE JULIO",
-    "fuente1": "IGM",
-    "objectid": 197,
-    "st_area_sh": "1.48580119852e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA NUEVE DE JULIO",
-    "last_edite": "",
-    "st_length_": "6.07199135283e-001",
-    "provincia": "SAN JUAN",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "70063"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 198,
+    "departamento": "RAWSON",
+    "cabecera": "VILLA KRAUSE",
+    "provincia": "SAN JUAN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -7102,29 +7017,19 @@
        -31.544261931999984
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "RAWSON",
-    "fuente1": "IGM",
-    "objectid": 198,
-    "st_area_sh": "2.83996879133e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA KRAUSE",
-    "last_edite": "",
-    "st_length_": "9.22406809150e-001",
-    "provincia": "SAN JUAN",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "70077"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 199,
+    "departamento": "POCITO",
+    "cabecera": "VILLA ALBERASTAIN",
+    "provincia": "SAN JUAN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -7704,29 +7609,19 @@
        -31.564043045000005
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "POCITO",
-    "fuente1": "IGM",
-    "objectid": 199,
-    "st_area_sh": "5.28347483988e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA ALBERASTAIN",
-    "last_edite": "",
-    "st_length_": "1.10236369334e+000",
-    "provincia": "SAN JUAN",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "70070"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 200,
+    "departamento": "SAN MARTIN",
+    "cabecera": "VILLA SAN MARTIN",
+    "provincia": "SAN JUAN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -7950,29 +7845,19 @@
        -31.450374603
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SAN MARTIN",
-    "fuente1": "IGM",
-    "objectid": 200,
-    "st_area_sh": "5.34742513115e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA SAN MARTIN",
-    "last_edite": "",
-    "st_length_": "1.14440617978e+000",
-    "provincia": "SAN JUAN",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "70091"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 201,
+    "departamento": "CAUCETE",
+    "cabecera": "CAUCETE",
+    "provincia": "SAN JUAN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -9208,29 +9093,19 @@
        -31.448057174999974
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CAUCETE",
-    "fuente1": "IGM",
-    "objectid": 201,
-    "st_area_sh": "7.36832010507e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "CAUCETE",
-    "last_edite": "",
-    "st_length_": "5.06363498737e+000",
-    "provincia": "SAN JUAN",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "70035"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 202,
+    "departamento": "JACHAL",
+    "cabecera": "SAN JOSE DE JACHAL",
+    "provincia": "SAN JUAN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -12746,29 +12621,19 @@
        -29.621726895999984
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "JACHAL",
-    "fuente1": "IGM",
-    "objectid": 202,
-    "st_area_sh": "1.34882954846e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN JOSE DE JACHAL",
-    "last_edite": "",
-    "st_length_": "5.49617341040e+000",
-    "provincia": "SAN JUAN",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "70056"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 203,
+    "departamento": "25 DE MAYO",
+    "cabecera": "VILLA SANTA ROSA",
+    "provincia": "SAN JUAN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -16420,29 +16285,19 @@
        -31.86038065499997
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "25 DE MAYO",
-    "fuente1": "IGM",
-    "objectid": 203,
-    "st_area_sh": "3.66936717470e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA SANTA ROSA",
-    "last_edite": "",
-    "st_length_": "3.70635750250e+000",
-    "provincia": "SAN JUAN",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "70126"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 301,
+    "departamento": "CALINGASTA",
+    "cabecera": "TAMBERIAS",
+    "provincia": "SAN JUAN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -43162,29 +43017,19 @@
        -30.274065017999988
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CALINGASTA",
-    "fuente1": "IGM",
-    "objectid": 301,
-    "st_area_sh": "2.13102113216e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "TAMBERIAS",
-    "last_edite": "",
-    "st_length_": "8.36210458722e+000",
-    "provincia": "SAN JUAN",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "70021"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 436,
+    "departamento": "SARMIENTO",
+    "cabecera": "VILLA MEDIA AGUA",
+    "provincia": "SAN JUAN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -44136,29 +43981,19 @@
        -31.832630156999983
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SARMIENTO",
-    "fuente1": "IGM",
-    "objectid": 436,
-    "st_area_sh": "2.78849617144e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA MEDIA AGUA",
-    "last_edite": "",
-    "st_length_": "2.49680624838e+000",
-    "provincia": "SAN JUAN",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "70105"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 434,
+    "departamento": "VALLE FERTIL",
+    "cabecera": "VILLA SAN AGUSTIN",
+    "provincia": "SAN JUAN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -49214,29 +49049,19 @@
        -30.515676591999977
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "VALLE FERTIL",
-    "fuente1": "IGM",
-    "objectid": 434,
-    "st_area_sh": "4.62134795995e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "VILLA SAN AGUSTIN",
-    "last_edite": "",
-    "st_length_": "5.04691464657e+000",
-    "provincia": "SAN JUAN",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "70119"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 435,
+    "departamento": "IGLESIA",
+    "cabecera": "RODEO",
+    "provincia": "SAN JUAN"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -79388,23 +79213,8 @@
        -28.393773092000004
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "IGLESIA",
-    "fuente1": "IGM",
-    "objectid": 435,
-    "st_area_sh": "1.80155860837e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "RODEO",
-    "last_edite": "",
-    "st_length_": "7.66205508621e+000",
-    "provincia": "SAN JUAN",
-    "fec_actual": "MAR 2006",
-    "fuente": "IGM",
-    "created_da": "",
-    "cod_depto": "70049"
+    ],
+    "type": "Polygon"
    }
   }
  ]

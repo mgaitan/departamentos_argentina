@@ -3,8 +3,13 @@
  "features": [
   {
    "type": "Feature",
+   "properties": {
+    "id": 394,
+    "departamento": "CAPAYAN",
+    "cabecera": "HUILLAPIMA",
+    "provincia": "CATAMARCA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -10480,29 +10485,19 @@
        -28.339221022000004
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CAPAYAN",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 394,
-    "st_area_sh": "4.01833529088e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "HUILLAPIMA",
-    "last_edite": "",
-    "st_length_": "4.29293766123e+000",
-    "provincia": "CATAMARCA",
-    "fec_actual": "AGO 2013",
-    "fuente": "CATASTRO DE CATAMARCA",
-    "created_da": "",
-    "cod_depto": "10042"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 276,
+    "departamento": "CAPITAL",
+    "cabecera": "SAN FERNANDO DEL VALLE DE CATAMARCA",
+    "provincia": "CATAMARCA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -17010,29 +17005,19 @@
        -28.42813657800002
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "CAPITAL",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 276,
-    "st_area_sh": "3.67076825032e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN FERNANDO DEL VALLE DE CATAMARCA",
-    "last_edite": "",
-    "st_length_": "9.76283858346e-001",
-    "provincia": "CATAMARCA",
-    "fec_actual": "AGO 2013",
-    "fuente": "CATASTRO DE CATAMARCA",
-    "created_da": "",
-    "cod_depto": "10049"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 277,
+    "departamento": "ANCASTI",
+    "cabecera": "ANCASTI",
+    "provincia": "CATAMARCA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -22480,29 +22465,19 @@
        -28.601003433000017
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ANCASTI",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 277,
-    "st_area_sh": "1.81841985005e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "ANCASTI",
-    "last_edite": "",
-    "st_length_": "3.13839593622e+000",
-    "provincia": "CATAMARCA",
-    "fec_actual": "AGO 2013",
-    "fuente": "CATASTRO DE CATAMARCA",
-    "created_da": "",
-    "cod_depto": "10014"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 278,
+    "departamento": "BELEN",
+    "cabecera": "BELEN",
+    "provincia": "CATAMARCA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -36130,29 +36105,19 @@
        -27.86598378399998
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "BELEN",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 278,
-    "st_area_sh": "1.15108909739e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "BELEN",
-    "last_edite": "",
-    "st_length_": "7.33913483491e+000",
-    "provincia": "CATAMARCA",
-    "fec_actual": "AGO 2013",
-    "fuente": "CATASTRO DE CATAMARCA",
-    "created_da": "",
-    "cod_depto": "10035"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 279,
+    "departamento": "SANTA MARIA",
+    "cabecera": "SANTA MARIA",
+    "provincia": "CATAMARCA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -40708,29 +40673,19 @@
        -26.141257764999978
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SANTA MARIA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 279,
-    "st_area_sh": "5.15185464992e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SANTA MARIA",
-    "last_edite": "",
-    "st_length_": "3.98824865326e+000",
-    "provincia": "CATAMARCA",
-    "fec_actual": "AGO 2013",
-    "fuente": "CATASTRO DE CATAMARCA",
-    "created_da": "",
-    "cod_depto": "10091"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 280,
+    "departamento": "ANDALGALA",
+    "cabecera": "ANDALGALA",
+    "provincia": "CATAMARCA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -54834,29 +54789,19 @@
        -27.420419246999984
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ANDALGALA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 280,
-    "st_area_sh": "4.35665705398e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "ANDALGALA",
-    "last_edite": "",
-    "st_length_": "3.47756501641e+000",
-    "provincia": "CATAMARCA",
-    "fec_actual": "AGO 2013",
-    "fuente": "CATASTRO DE CATAMARCA",
-    "created_da": "",
-    "cod_depto": "10021"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 281,
+    "departamento": "AMBATO",
+    "cabecera": "LA PUERTA",
+    "provincia": "CATAMARCA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -73308,29 +73253,19 @@
        -27.616676959000017
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "AMBATO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 281,
-    "st_area_sh": "1.66971628413e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LA PUERTA",
-    "last_edite": "",
-    "st_length_": "2.49286908267e+000",
-    "provincia": "CATAMARCA",
-    "fec_actual": "AGO 2013",
-    "fuente": "CATASTRO DE CATAMARCA",
-    "created_da": "",
-    "cod_depto": "10007"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 282,
+    "departamento": "PACLIN",
+    "cabecera": "LA MERCED",
+    "provincia": "CATAMARCA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -80602,29 +80537,19 @@
        -27.806125794000025
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "PACLIN",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 282,
-    "st_area_sh": "9.04611772013e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "LA MERCED",
-    "last_edite": "",
-    "st_length_": "1.92378359921e+000",
-    "provincia": "CATAMARCA",
-    "fec_actual": "AGO 2013",
-    "fuente": "CATASTRO DE CATAMARCA",
-    "created_da": "",
-    "cod_depto": "10077"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 283,
+    "departamento": "SANTA ROSA",
+    "cabecera": "BA\u00a5ADO DE OVANTA",
+    "provincia": "CATAMARCA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -84320,29 +84245,19 @@
        -27.94646454100001
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "SANTA ROSA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 283,
-    "st_area_sh": "1.46281127237e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "BA\u00a5ADO DE OVANTA",
-    "last_edite": "",
-    "st_length_": "1.97465961992e+000",
-    "provincia": "CATAMARCA",
-    "fec_actual": "AGO 2013",
-    "fuente": "CATASTRO DE CATAMARCA",
-    "created_da": "",
-    "cod_depto": "10098"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 284,
+    "departamento": "EL ALTO",
+    "cabecera": "EL ALTO",
+    "provincia": "CATAMARCA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -89934,29 +89849,19 @@
        -28.168386622000014
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "EL ALTO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 284,
-    "st_area_sh": "1.76387905235e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "EL ALTO",
-    "last_edite": "",
-    "st_length_": "2.21070154936e+000",
-    "provincia": "CATAMARCA",
-    "fec_actual": "AGO 2013",
-    "fuente": "CATASTRO DE CATAMARCA",
-    "created_da": "",
-    "cod_depto": "10056"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 285,
+    "departamento": "LA PAZ",
+    "cabecera": "SAN ANTONIO",
+    "provincia": "CATAMARCA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -92628,29 +92533,19 @@
        -28.596805039999992
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "LA PAZ",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 285,
-    "st_area_sh": "7.69939926224e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN ANTONIO",
-    "last_edite": "",
-    "st_length_": "4.27073168279e+000",
-    "provincia": "CATAMARCA",
-    "fec_actual": "AGO 2013",
-    "fuente": "CATASTRO DE CATAMARCA",
-    "created_da": "",
-    "cod_depto": "10070"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 286,
+    "departamento": "POMAN",
+    "cabecera": "SAUJIL",
+    "provincia": "CATAMARCA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -107346,29 +107241,19 @@
        -27.780435712999974
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "POMAN",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 286,
-    "st_area_sh": "5.06782555172e-001",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAUJIL",
-    "last_edite": "",
-    "st_length_": "4.12549896948e+000",
-    "provincia": "CATAMARCA",
-    "fec_actual": "AGO 2013",
-    "fuente": "CATASTRO DE CATAMARCA",
-    "created_da": "",
-    "cod_depto": "10084"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 344,
+    "departamento": "ANTOFAGASTA DE LA SIERRA",
+    "cabecera": "ANTOFAGASTA DE LA SIERRA",
+    "provincia": "CATAMARCA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -126072,29 +125957,19 @@
        -25.16867426699997
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "ANTOFAGASTA DE LA SIERRA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 344,
-    "st_area_sh": "2.53337085248e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "ANTOFAGASTA DE LA SIERRA",
-    "last_edite": "",
-    "st_length_": "7.94437393353e+000",
-    "provincia": "CATAMARCA",
-    "fec_actual": "AGO 2013",
-    "fuente": "CATASTRO DE CATAMARCA",
-    "created_da": "",
-    "cod_depto": "10028"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 345,
+    "departamento": "TINOGASTA",
+    "cabecera": "TINOGASTA",
+    "provincia": "CATAMARCA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -157310,29 +157185,19 @@
        -26.701150945999984
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "TINOGASTA",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 345,
-    "st_area_sh": "2.07142496997e+000",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "TINOGASTA",
-    "last_edite": "",
-    "st_length_": "9.87325057901e+000",
-    "provincia": "CATAMARCA",
-    "fec_actual": "AGO 2013",
-    "fuente": "CATASTRO DE CATAMARCA",
-    "created_da": "",
-    "cod_depto": "10105"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 512,
+    "departamento": "VALLE VIEJO",
+    "cabecera": "SAN ISIDRO",
+    "provincia": "CATAMARCA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -162496,29 +162361,19 @@
        -28.569567811000013
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "VALLE VIEJO",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 512,
-    "st_area_sh": "5.63045151017e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN ISIDRO",
-    "last_edite": "",
-    "st_length_": "1.38768004571e+000",
-    "provincia": "CATAMARCA",
-    "fec_actual": "AGO 2013",
-    "fuente": "CATASTRO DE CATAMARCA",
-    "created_da": "",
-    "cod_depto": "10112"
+    ],
+    "type": "Polygon"
    }
   },
   {
    "type": "Feature",
+   "properties": {
+    "id": 513,
+    "departamento": "FRAY MAMERTO ESQUIU",
+    "cabecera": "SAN JOSE",
+    "provincia": "CATAMARCA"
+   },
    "geometry": {
-    "type": "Polygon",
     "coordinates": [
      [
       [
@@ -167682,23 +167537,8 @@
        -28.421093143000007
       ]
      ]
-    ]
-   },
-   "properties": {
-    "departa": "FRAY MAMERTO ESQUIU",
-    "fuente1": "CATASTROS PROVINCIALES",
-    "objectid": 513,
-    "st_area_sh": "1.71019271703e-002",
-    "last_edi_1": "",
-    "created_us": "",
-    "cabecer": "SAN JOSE",
-    "last_edite": "",
-    "st_length_": "7.57925633391e-001",
-    "provincia": "CATAMARCA",
-    "fec_actual": "AGO 2013",
-    "fuente": "CATASTRO DE CATAMARCA",
-    "created_da": "",
-    "cod_depto": "10063"
+    ],
+    "type": "Polygon"
    }
   }
  ]
